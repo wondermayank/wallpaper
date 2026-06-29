@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A premium Pinterest-like wallpaper gallery engine to browse, preview, search, download, and favorite high-quality wallpapers.">
+  <meta name="keywords" content="wallpapers, anime wallpapers, desktop background, pinterest grid, masonry layout, raw github, images, gifs">
+  <title>AeroPaper | Premium Pinterest Wallpaper Gallery</title>
+  
+  <!-- Google Fonts (Outfit & Inter) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="app-container">
+    <!-- Sticky Glassmorphic Header -->
+    <header>
+      <a href="#" class="logo-container" id="logo-link">
+        <i class="fas fa-wind logo-icon"></i>
+        <span class="logo-text">AeroPaper</span>
+      </a>
+      
+      <!-- Interactive Search Container -->
+      <div class="search-container">
+        <i class="fas fa-search search-icon"></i>
+        <input 
+          type="text" 
+          id="search-input" 
+          class="search-input" 
+          placeholder="Search wallpapers, tags, categories, extensions..."
+          autocomplete="off"
+        />
+      </div>
+      
+      <!-- Action Controls -->
+      <div class="header-actions">
+        <button id="explore-tab" class="nav-btn active">
+          <i class="fas fa-compass"></i> <span>Explore</span>
+        </button>
+        <button id="liked-tab" class="nav-btn">
+          <i class="fas fa-heart"></i> <span>Liked</span>
+        </button>
+        <button id="theme-toggle" class="theme-toggle" title="Toggle Theme">
+          <i class="fas fa-sun"></i>
+        </button>
+      </div>
+    </header>
+    
+    <!-- Main Content Area -->
+    <main>
+      <!-- Filter controls and status -->
+      <div class="filter-section">
+        <!-- Categories filter -->
+        <div class="filter-row">
+          <span class="filter-label">Folder</span>
+          <div id="category-pills" class="filter-pills">
+            <!-- Dynamic Category Pills -->
+          </div>
+        </div>
+        
+        <!-- Formats filter -->
+        <div class="filter-row">
+          <span class="filter-label">Format</span>
+          <div id="format-pills" class="filter-pills">
+            <!-- Dynamic Format Pills -->
+          </div>
+        </div>
+        
+        <!-- Wallpaper Stats count -->
+        <div class="stat-pills">
+          <span>Found: <strong id="view-count">0</strong> wallpapers</span>
+          <span>Database: <strong id="total-count">0</strong> total</span>
+        </div>
+      </div>
+      
+      <!-- Dynamic Masonry Layout Container -->
+      <div class="masonry-container">
+        <div id="masonry-grid" class="masonry-grid">
+          <!-- Dynamically filled with wallpaper items -->
+        </div>
+      </div>
+    </main>
+  </div>
+  
+  <!-- Immersive Lightbox Modal -->
+  <div id="lightbox" class="lightbox">
+    <div class="lightbox-content">
+      <!-- Close button -->
+      <button id="lightbox-close" class="lightbox-close" title="Close Preview">
+        <i class="fas fa-times"></i>
+      </button>
+      
+      <!-- Lightbox Media Section -->
+      <div class="lightbox-media">
+        <img class="lightbox-img" src="" alt="" />
+      </div>
+      
+      <!-- Lightbox Detail Section -->
+      <div class="lightbox-details">
+        <div class="detail-header">
+          <span class="detail-category">Anime Wallpapers</span>
+          <h2 class="detail-title">Wallpaper Title</h2>
+          
+          <div class="info-grid">
+            <div class="info-card">
+              <div class="info-label">Format</div>
+              <div class="info-value" id="info-format">-</div>
+            </div>
+            <div class="info-card">
+              <div class="info-label">File Size</div>
+              <div class="info-value" id="info-size">-</div>
+            </div>
+            <div class="info-card" style="grid-column: span 2;">
+              <div class="info-label">File Path</div>
+              <div class="info-value" id="info-path" style="word-break: break-all; font-family: monospace; font-size: 0.8rem; font-weight: normal;">-</div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="detail-actions">
+          <button id="lightbox-download" class="action-btn primary-btn">
+            <i class="fas fa-arrow-down"></i> Download Wallpaper
+          </button>
+          <button id="lightbox-like" class="action-btn secondary-btn">
+            <i class="far fa-heart"></i> Favorite
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="database.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
