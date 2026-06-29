@@ -2,7 +2,7 @@
 const WALLPAPERS = [
   {
     "id": "wp_1",
-    "name": "1",
+    "name": "Anime #1",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(1).gif",
     "format": "GIF",
@@ -11,7 +11,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_2",
-    "name": "1",
+    "name": "Anime #1",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(1).jpeg",
     "format": "JPEG",
@@ -20,7 +20,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_3",
-    "name": "1",
+    "name": "Anime #1",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(1).jpg",
     "format": "JPG",
@@ -29,7 +29,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_4",
-    "name": "1",
+    "name": "Anime #1",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(1).png",
     "format": "PNG",
@@ -38,7 +38,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_5",
-    "name": "1",
+    "name": "Anime #1",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(1).webp",
     "format": "WEBP",
@@ -47,7 +47,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_6",
-    "name": "1",
+    "name": "Anime #10",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(10).jpeg",
     "format": "JPEG",
@@ -56,7 +56,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_7",
-    "name": "1",
+    "name": "Anime #10",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(10).jpg",
     "format": "JPG",
@@ -65,7 +65,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_8",
-    "name": "1",
+    "name": "Anime #10",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(10).png",
     "format": "PNG",
@@ -74,7 +74,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_9",
-    "name": "1",
+    "name": "Anime #100",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(100).jpg",
     "format": "JPG",
@@ -83,7 +83,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_10",
-    "name": "1",
+    "name": "Anime #100",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(100).png",
     "format": "PNG",
@@ -92,7 +92,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_11",
-    "name": "1",
+    "name": "Anime #101",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(101).jpg",
     "format": "JPG",
@@ -101,7 +101,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_12",
-    "name": "1",
+    "name": "Anime #101",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(101).png",
     "format": "PNG",
@@ -110,7 +110,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_13",
-    "name": "1",
+    "name": "Anime #102",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(102).jpg",
     "format": "JPG",
@@ -119,7 +119,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_14",
-    "name": "1",
+    "name": "Anime #102",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(102).png",
     "format": "PNG",
@@ -128,7 +128,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_15",
-    "name": "1",
+    "name": "Anime #103",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(103).jpg",
     "format": "JPG",
@@ -137,7 +137,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_16",
-    "name": "1",
+    "name": "Anime #103",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(103).png",
     "format": "PNG",
@@ -146,7 +146,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_17",
-    "name": "1",
+    "name": "Anime #104",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(104).jpg",
     "format": "JPG",
@@ -155,7 +155,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_18",
-    "name": "1",
+    "name": "Anime #104",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(104).png",
     "format": "PNG",
@@ -164,7 +164,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_19",
-    "name": "1",
+    "name": "Anime #105",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(105).jpg",
     "format": "JPG",
@@ -173,7 +173,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_20",
-    "name": "1",
+    "name": "Anime #105",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(105).png",
     "format": "PNG",
@@ -182,7 +182,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_21",
-    "name": "1",
+    "name": "Anime #106",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(106).jpg",
     "format": "JPG",
@@ -191,7 +191,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_22",
-    "name": "1",
+    "name": "Anime #106",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(106).png",
     "format": "PNG",
@@ -200,7 +200,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_23",
-    "name": "1",
+    "name": "Anime #107",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(107).jpg",
     "format": "JPG",
@@ -209,7 +209,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_24",
-    "name": "1",
+    "name": "Anime #107",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(107).png",
     "format": "PNG",
@@ -218,7 +218,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_25",
-    "name": "1",
+    "name": "Anime #108",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(108).jpg",
     "format": "JPG",
@@ -227,7 +227,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_26",
-    "name": "1",
+    "name": "Anime #108",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(108).png",
     "format": "PNG",
@@ -236,7 +236,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_27",
-    "name": "1",
+    "name": "Anime #109",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(109).jpg",
     "format": "JPG",
@@ -245,7 +245,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_28",
-    "name": "1",
+    "name": "Anime #109",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(109).png",
     "format": "PNG",
@@ -254,7 +254,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_29",
-    "name": "1",
+    "name": "Anime #11",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(11).jpeg",
     "format": "JPEG",
@@ -263,7 +263,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_30",
-    "name": "1",
+    "name": "Anime #11",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(11).jpg",
     "format": "JPG",
@@ -272,7 +272,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_31",
-    "name": "1",
+    "name": "Anime #11",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(11).png",
     "format": "PNG",
@@ -281,7 +281,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_32",
-    "name": "1",
+    "name": "Anime #110",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(110).jpg",
     "format": "JPG",
@@ -290,7 +290,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_33",
-    "name": "1",
+    "name": "Anime #110",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(110).png",
     "format": "PNG",
@@ -299,7 +299,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_34",
-    "name": "1",
+    "name": "Anime #111",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(111).jpg",
     "format": "JPG",
@@ -308,7 +308,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_35",
-    "name": "1",
+    "name": "Anime #111",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(111).png",
     "format": "PNG",
@@ -317,7 +317,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_36",
-    "name": "1",
+    "name": "Anime #112",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(112).jpg",
     "format": "JPG",
@@ -326,7 +326,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_37",
-    "name": "1",
+    "name": "Anime #112",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(112).png",
     "format": "PNG",
@@ -335,7 +335,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_38",
-    "name": "1",
+    "name": "Anime #113",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(113).jpg",
     "format": "JPG",
@@ -344,7 +344,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_39",
-    "name": "1",
+    "name": "Anime #113",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(113).png",
     "format": "PNG",
@@ -353,7 +353,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_40",
-    "name": "1",
+    "name": "Anime #114",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(114).jpg",
     "format": "JPG",
@@ -362,7 +362,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_41",
-    "name": "1",
+    "name": "Anime #114",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(114).png",
     "format": "PNG",
@@ -371,7 +371,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_42",
-    "name": "1",
+    "name": "Anime #115",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(115).jpg",
     "format": "JPG",
@@ -380,7 +380,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_43",
-    "name": "1",
+    "name": "Anime #115",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(115).png",
     "format": "PNG",
@@ -389,7 +389,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_44",
-    "name": "1",
+    "name": "Anime #116",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(116).jpg",
     "format": "JPG",
@@ -398,7 +398,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_45",
-    "name": "1",
+    "name": "Anime #116",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(116).png",
     "format": "PNG",
@@ -407,7 +407,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_46",
-    "name": "1",
+    "name": "Anime #117",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(117).jpg",
     "format": "JPG",
@@ -416,7 +416,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_47",
-    "name": "1",
+    "name": "Anime #117",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(117).png",
     "format": "PNG",
@@ -425,7 +425,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_48",
-    "name": "1",
+    "name": "Anime #118",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(118).jpg",
     "format": "JPG",
@@ -434,7 +434,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_49",
-    "name": "1",
+    "name": "Anime #118",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(118).png",
     "format": "PNG",
@@ -443,7 +443,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_50",
-    "name": "1",
+    "name": "Anime #119",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(119).jpg",
     "format": "JPG",
@@ -452,7 +452,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_51",
-    "name": "1",
+    "name": "Anime #119",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(119).png",
     "format": "PNG",
@@ -461,7 +461,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_52",
-    "name": "1",
+    "name": "Anime #12",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(12).jpeg",
     "format": "JPEG",
@@ -470,7 +470,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_53",
-    "name": "1",
+    "name": "Anime #12",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(12).jpg",
     "format": "JPG",
@@ -479,7 +479,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_54",
-    "name": "1",
+    "name": "Anime #12",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(12).png",
     "format": "PNG",
@@ -488,7 +488,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_55",
-    "name": "1",
+    "name": "Anime #120",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(120).jpg",
     "format": "JPG",
@@ -497,7 +497,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_56",
-    "name": "1",
+    "name": "Anime #120",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(120).png",
     "format": "PNG",
@@ -506,7 +506,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_57",
-    "name": "1",
+    "name": "Anime #121",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(121).jpg",
     "format": "JPG",
@@ -515,7 +515,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_58",
-    "name": "1",
+    "name": "Anime #121",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(121).png",
     "format": "PNG",
@@ -524,7 +524,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_59",
-    "name": "1",
+    "name": "Anime #122",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(122).jpg",
     "format": "JPG",
@@ -533,7 +533,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_60",
-    "name": "1",
+    "name": "Anime #122",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(122).png",
     "format": "PNG",
@@ -542,7 +542,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_61",
-    "name": "1",
+    "name": "Anime #123",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(123).jpg",
     "format": "JPG",
@@ -551,7 +551,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_62",
-    "name": "1",
+    "name": "Anime #123",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(123).png",
     "format": "PNG",
@@ -560,7 +560,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_63",
-    "name": "1",
+    "name": "Anime #124",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(124).jpg",
     "format": "JPG",
@@ -569,7 +569,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_64",
-    "name": "1",
+    "name": "Anime #124",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(124).png",
     "format": "PNG",
@@ -578,7 +578,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_65",
-    "name": "1",
+    "name": "Anime #125",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(125).jpg",
     "format": "JPG",
@@ -587,7 +587,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_66",
-    "name": "1",
+    "name": "Anime #125",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(125).png",
     "format": "PNG",
@@ -596,7 +596,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_67",
-    "name": "1",
+    "name": "Anime #126",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(126).jpg",
     "format": "JPG",
@@ -605,7 +605,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_68",
-    "name": "1",
+    "name": "Anime #126",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(126).png",
     "format": "PNG",
@@ -614,7 +614,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_69",
-    "name": "1",
+    "name": "Anime #127",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(127).jpg",
     "format": "JPG",
@@ -623,7 +623,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_70",
-    "name": "1",
+    "name": "Anime #127",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(127).png",
     "format": "PNG",
@@ -632,7 +632,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_71",
-    "name": "1",
+    "name": "Anime #128",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(128).jpg",
     "format": "JPG",
@@ -641,7 +641,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_72",
-    "name": "1",
+    "name": "Anime #128",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(128).png",
     "format": "PNG",
@@ -650,7 +650,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_73",
-    "name": "1",
+    "name": "Anime #129",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(129).jpg",
     "format": "JPG",
@@ -659,7 +659,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_74",
-    "name": "1",
+    "name": "Anime #129",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(129).png",
     "format": "PNG",
@@ -668,7 +668,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_75",
-    "name": "1",
+    "name": "Anime #13",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(13).jpeg",
     "format": "JPEG",
@@ -677,7 +677,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_76",
-    "name": "1",
+    "name": "Anime #13",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(13).jpg",
     "format": "JPG",
@@ -686,7 +686,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_77",
-    "name": "1",
+    "name": "Anime #13",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(13).png",
     "format": "PNG",
@@ -695,7 +695,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_78",
-    "name": "1",
+    "name": "Anime #130",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(130).jpg",
     "format": "JPG",
@@ -704,7 +704,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_79",
-    "name": "1",
+    "name": "Anime #130",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(130).png",
     "format": "PNG",
@@ -713,7 +713,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_80",
-    "name": "1",
+    "name": "Anime #131",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(131).jpg",
     "format": "JPG",
@@ -722,7 +722,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_81",
-    "name": "1",
+    "name": "Anime #131",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(131).png",
     "format": "PNG",
@@ -731,7 +731,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_82",
-    "name": "1",
+    "name": "Anime #132",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(132).jpg",
     "format": "JPG",
@@ -740,7 +740,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_83",
-    "name": "1",
+    "name": "Anime #132",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(132).png",
     "format": "PNG",
@@ -749,7 +749,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_84",
-    "name": "1",
+    "name": "Anime #133",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(133).jpg",
     "format": "JPG",
@@ -758,7 +758,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_85",
-    "name": "1",
+    "name": "Anime #133",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(133).png",
     "format": "PNG",
@@ -767,7 +767,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_86",
-    "name": "1",
+    "name": "Anime #134",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(134).jpg",
     "format": "JPG",
@@ -776,7 +776,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_87",
-    "name": "1",
+    "name": "Anime #134",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(134).png",
     "format": "PNG",
@@ -785,7 +785,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_88",
-    "name": "1",
+    "name": "Anime #135",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(135).jpg",
     "format": "JPG",
@@ -794,7 +794,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_89",
-    "name": "1",
+    "name": "Anime #135",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(135).png",
     "format": "PNG",
@@ -803,7 +803,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_90",
-    "name": "1",
+    "name": "Anime #136",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(136).jpg",
     "format": "JPG",
@@ -812,7 +812,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_91",
-    "name": "1",
+    "name": "Anime #136",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(136).png",
     "format": "PNG",
@@ -821,7 +821,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_92",
-    "name": "1",
+    "name": "Anime #137",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(137).jpg",
     "format": "JPG",
@@ -830,7 +830,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_93",
-    "name": "1",
+    "name": "Anime #137",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(137).png",
     "format": "PNG",
@@ -839,7 +839,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_94",
-    "name": "1",
+    "name": "Anime #138",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(138).jpg",
     "format": "JPG",
@@ -848,7 +848,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_95",
-    "name": "1",
+    "name": "Anime #138",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(138).png",
     "format": "PNG",
@@ -857,7 +857,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_96",
-    "name": "1",
+    "name": "Anime #139",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(139).jpg",
     "format": "JPG",
@@ -866,7 +866,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_97",
-    "name": "1",
+    "name": "Anime #139",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(139).png",
     "format": "PNG",
@@ -875,7 +875,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_98",
-    "name": "1",
+    "name": "Anime #14",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(14).jpeg",
     "format": "JPEG",
@@ -884,7 +884,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_99",
-    "name": "1",
+    "name": "Anime #14",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(14).jpg",
     "format": "JPG",
@@ -893,7 +893,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_100",
-    "name": "1",
+    "name": "Anime #14",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(14).png",
     "format": "PNG",
@@ -902,7 +902,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_101",
-    "name": "1",
+    "name": "Anime #140",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(140).jpg",
     "format": "JPG",
@@ -911,7 +911,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_102",
-    "name": "1",
+    "name": "Anime #140",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(140).png",
     "format": "PNG",
@@ -920,7 +920,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_103",
-    "name": "1",
+    "name": "Anime #141",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(141).jpg",
     "format": "JPG",
@@ -929,7 +929,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_104",
-    "name": "1",
+    "name": "Anime #141",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(141).png",
     "format": "PNG",
@@ -938,7 +938,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_105",
-    "name": "1",
+    "name": "Anime #142",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(142).jpg",
     "format": "JPG",
@@ -947,7 +947,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_106",
-    "name": "1",
+    "name": "Anime #142",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(142).png",
     "format": "PNG",
@@ -956,7 +956,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_107",
-    "name": "1",
+    "name": "Anime #143",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(143).jpg",
     "format": "JPG",
@@ -965,7 +965,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_108",
-    "name": "1",
+    "name": "Anime #143",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(143).png",
     "format": "PNG",
@@ -974,7 +974,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_109",
-    "name": "1",
+    "name": "Anime #144",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(144).jpg",
     "format": "JPG",
@@ -983,7 +983,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_110",
-    "name": "1",
+    "name": "Anime #144",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(144).png",
     "format": "PNG",
@@ -992,7 +992,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_111",
-    "name": "1",
+    "name": "Anime #145",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(145).jpg",
     "format": "JPG",
@@ -1001,7 +1001,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_112",
-    "name": "1",
+    "name": "Anime #145",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(145).png",
     "format": "PNG",
@@ -1010,7 +1010,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_113",
-    "name": "1",
+    "name": "Anime #146",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(146).jpg",
     "format": "JPG",
@@ -1019,7 +1019,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_114",
-    "name": "1",
+    "name": "Anime #146",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(146).png",
     "format": "PNG",
@@ -1028,7 +1028,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_115",
-    "name": "1",
+    "name": "Anime #147",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(147).jpg",
     "format": "JPG",
@@ -1037,7 +1037,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_116",
-    "name": "1",
+    "name": "Anime #147",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(147).png",
     "format": "PNG",
@@ -1046,7 +1046,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_117",
-    "name": "1",
+    "name": "Anime #148",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(148).jpg",
     "format": "JPG",
@@ -1055,7 +1055,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_118",
-    "name": "1",
+    "name": "Anime #148",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(148).png",
     "format": "PNG",
@@ -1064,7 +1064,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_119",
-    "name": "1",
+    "name": "Anime #149",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(149).jpg",
     "format": "JPG",
@@ -1073,7 +1073,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_120",
-    "name": "1",
+    "name": "Anime #149",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(149).png",
     "format": "PNG",
@@ -1082,7 +1082,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_121",
-    "name": "1",
+    "name": "Anime #15",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(15).jpeg",
     "format": "JPEG",
@@ -1091,7 +1091,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_122",
-    "name": "1",
+    "name": "Anime #15",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(15).jpg",
     "format": "JPG",
@@ -1100,7 +1100,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_123",
-    "name": "1",
+    "name": "Anime #15",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(15).png",
     "format": "PNG",
@@ -1109,7 +1109,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_124",
-    "name": "1",
+    "name": "Anime #150",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(150).jpg",
     "format": "JPG",
@@ -1118,7 +1118,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_125",
-    "name": "1",
+    "name": "Anime #150",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(150).png",
     "format": "PNG",
@@ -1127,7 +1127,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_126",
-    "name": "1",
+    "name": "Anime #151",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(151).jpg",
     "format": "JPG",
@@ -1136,7 +1136,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_127",
-    "name": "1",
+    "name": "Anime #151",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(151).png",
     "format": "PNG",
@@ -1145,7 +1145,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_128",
-    "name": "1",
+    "name": "Anime #152",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(152).jpg",
     "format": "JPG",
@@ -1154,7 +1154,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_129",
-    "name": "1",
+    "name": "Anime #152",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(152).png",
     "format": "PNG",
@@ -1163,7 +1163,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_130",
-    "name": "1",
+    "name": "Anime #153",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(153).jpg",
     "format": "JPG",
@@ -1172,7 +1172,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_131",
-    "name": "1",
+    "name": "Anime #153",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(153).png",
     "format": "PNG",
@@ -1181,7 +1181,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_132",
-    "name": "1",
+    "name": "Anime #154",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(154).jpg",
     "format": "JPG",
@@ -1190,7 +1190,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_133",
-    "name": "1",
+    "name": "Anime #154",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(154).png",
     "format": "PNG",
@@ -1199,7 +1199,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_134",
-    "name": "1",
+    "name": "Anime #155",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(155).jpg",
     "format": "JPG",
@@ -1208,7 +1208,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_135",
-    "name": "1",
+    "name": "Anime #155",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(155).png",
     "format": "PNG",
@@ -1217,7 +1217,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_136",
-    "name": "1",
+    "name": "Anime #156",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(156).jpg",
     "format": "JPG",
@@ -1226,7 +1226,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_137",
-    "name": "1",
+    "name": "Anime #156",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(156).png",
     "format": "PNG",
@@ -1235,7 +1235,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_138",
-    "name": "1",
+    "name": "Anime #157",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(157).jpg",
     "format": "JPG",
@@ -1244,7 +1244,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_139",
-    "name": "1",
+    "name": "Anime #157",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(157).png",
     "format": "PNG",
@@ -1253,7 +1253,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_140",
-    "name": "1",
+    "name": "Anime #158",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(158).jpg",
     "format": "JPG",
@@ -1262,7 +1262,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_141",
-    "name": "1",
+    "name": "Anime #158",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(158).png",
     "format": "PNG",
@@ -1271,7 +1271,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_142",
-    "name": "1",
+    "name": "Anime #159",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(159).jpg",
     "format": "JPG",
@@ -1280,7 +1280,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_143",
-    "name": "1",
+    "name": "Anime #159",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(159).png",
     "format": "PNG",
@@ -1289,7 +1289,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_144",
-    "name": "1",
+    "name": "Anime #16",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(16).jpeg",
     "format": "JPEG",
@@ -1298,7 +1298,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_145",
-    "name": "1",
+    "name": "Anime #16",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(16).jpg",
     "format": "JPG",
@@ -1307,7 +1307,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_146",
-    "name": "1",
+    "name": "Anime #16",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(16).png",
     "format": "PNG",
@@ -1316,7 +1316,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_147",
-    "name": "1",
+    "name": "Anime #160",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(160).jpg",
     "format": "JPG",
@@ -1325,7 +1325,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_148",
-    "name": "1",
+    "name": "Anime #160",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(160).png",
     "format": "PNG",
@@ -1334,7 +1334,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_149",
-    "name": "1",
+    "name": "Anime #161",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(161).jpg",
     "format": "JPG",
@@ -1343,7 +1343,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_150",
-    "name": "1",
+    "name": "Anime #161",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(161).png",
     "format": "PNG",
@@ -1352,7 +1352,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_151",
-    "name": "1",
+    "name": "Anime #162",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(162).jpg",
     "format": "JPG",
@@ -1361,7 +1361,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_152",
-    "name": "1",
+    "name": "Anime #162",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(162).png",
     "format": "PNG",
@@ -1370,7 +1370,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_153",
-    "name": "1",
+    "name": "Anime #163",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(163).jpg",
     "format": "JPG",
@@ -1379,7 +1379,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_154",
-    "name": "1",
+    "name": "Anime #163",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(163).png",
     "format": "PNG",
@@ -1388,7 +1388,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_155",
-    "name": "1",
+    "name": "Anime #164",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(164).jpg",
     "format": "JPG",
@@ -1397,7 +1397,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_156",
-    "name": "1",
+    "name": "Anime #164",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(164).png",
     "format": "PNG",
@@ -1406,7 +1406,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_157",
-    "name": "1",
+    "name": "Anime #165",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(165).jpg",
     "format": "JPG",
@@ -1415,7 +1415,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_158",
-    "name": "1",
+    "name": "Anime #165",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(165).png",
     "format": "PNG",
@@ -1424,7 +1424,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_159",
-    "name": "1",
+    "name": "Anime #166",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(166).jpg",
     "format": "JPG",
@@ -1433,7 +1433,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_160",
-    "name": "1",
+    "name": "Anime #166",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(166).png",
     "format": "PNG",
@@ -1442,7 +1442,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_161",
-    "name": "1",
+    "name": "Anime #167",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(167).jpg",
     "format": "JPG",
@@ -1451,7 +1451,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_162",
-    "name": "1",
+    "name": "Anime #167",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(167).png",
     "format": "PNG",
@@ -1460,7 +1460,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_163",
-    "name": "1",
+    "name": "Anime #168",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(168).jpg",
     "format": "JPG",
@@ -1469,7 +1469,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_164",
-    "name": "1",
+    "name": "Anime #168",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(168).png",
     "format": "PNG",
@@ -1478,7 +1478,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_165",
-    "name": "1",
+    "name": "Anime #169",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(169).jpg",
     "format": "JPG",
@@ -1487,7 +1487,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_166",
-    "name": "1",
+    "name": "Anime #169",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(169).png",
     "format": "PNG",
@@ -1496,7 +1496,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_167",
-    "name": "1",
+    "name": "Anime #17",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(17).jpeg",
     "format": "JPEG",
@@ -1505,7 +1505,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_168",
-    "name": "1",
+    "name": "Anime #17",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(17).jpg",
     "format": "JPG",
@@ -1514,7 +1514,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_169",
-    "name": "1",
+    "name": "Anime #17",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(17).png",
     "format": "PNG",
@@ -1523,7 +1523,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_170",
-    "name": "1",
+    "name": "Anime #170",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(170).jpg",
     "format": "JPG",
@@ -1532,7 +1532,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_171",
-    "name": "1",
+    "name": "Anime #170",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(170).png",
     "format": "PNG",
@@ -1541,7 +1541,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_172",
-    "name": "1",
+    "name": "Anime #171",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(171).jpg",
     "format": "JPG",
@@ -1550,7 +1550,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_173",
-    "name": "1",
+    "name": "Anime #171",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(171).png",
     "format": "PNG",
@@ -1559,7 +1559,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_174",
-    "name": "1",
+    "name": "Anime #172",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(172).jpg",
     "format": "JPG",
@@ -1568,7 +1568,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_175",
-    "name": "1",
+    "name": "Anime #172",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(172).png",
     "format": "PNG",
@@ -1577,7 +1577,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_176",
-    "name": "1",
+    "name": "Anime #173",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(173).jpg",
     "format": "JPG",
@@ -1586,7 +1586,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_177",
-    "name": "1",
+    "name": "Anime #173",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(173).png",
     "format": "PNG",
@@ -1595,7 +1595,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_178",
-    "name": "1",
+    "name": "Anime #174",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(174).jpg",
     "format": "JPG",
@@ -1604,7 +1604,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_179",
-    "name": "1",
+    "name": "Anime #174",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(174).png",
     "format": "PNG",
@@ -1613,7 +1613,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_180",
-    "name": "1",
+    "name": "Anime #175",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(175).jpg",
     "format": "JPG",
@@ -1622,7 +1622,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_181",
-    "name": "1",
+    "name": "Anime #175",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(175).png",
     "format": "PNG",
@@ -1631,7 +1631,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_182",
-    "name": "1",
+    "name": "Anime #176",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(176).jpg",
     "format": "JPG",
@@ -1640,7 +1640,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_183",
-    "name": "1",
+    "name": "Anime #176",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(176).png",
     "format": "PNG",
@@ -1649,7 +1649,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_184",
-    "name": "1",
+    "name": "Anime #177",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(177).jpg",
     "format": "JPG",
@@ -1658,7 +1658,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_185",
-    "name": "1",
+    "name": "Anime #177",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(177).png",
     "format": "PNG",
@@ -1667,7 +1667,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_186",
-    "name": "1",
+    "name": "Anime #178",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(178).jpg",
     "format": "JPG",
@@ -1676,7 +1676,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_187",
-    "name": "1",
+    "name": "Anime #178",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(178).png",
     "format": "PNG",
@@ -1685,7 +1685,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_188",
-    "name": "1",
+    "name": "Anime #179",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(179).jpg",
     "format": "JPG",
@@ -1694,7 +1694,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_189",
-    "name": "1",
+    "name": "Anime #179",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(179).png",
     "format": "PNG",
@@ -1703,7 +1703,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_190",
-    "name": "1",
+    "name": "Anime #18",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(18).jpeg",
     "format": "JPEG",
@@ -1712,7 +1712,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_191",
-    "name": "1",
+    "name": "Anime #18",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(18).jpg",
     "format": "JPG",
@@ -1721,7 +1721,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_192",
-    "name": "1",
+    "name": "Anime #18",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(18).png",
     "format": "PNG",
@@ -1730,7 +1730,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_193",
-    "name": "1",
+    "name": "Anime #180",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(180).jpg",
     "format": "JPG",
@@ -1739,7 +1739,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_194",
-    "name": "1",
+    "name": "Anime #180",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(180).png",
     "format": "PNG",
@@ -1748,7 +1748,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_195",
-    "name": "1",
+    "name": "Anime #181",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(181).jpg",
     "format": "JPG",
@@ -1757,7 +1757,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_196",
-    "name": "1",
+    "name": "Anime #181",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(181).png",
     "format": "PNG",
@@ -1766,7 +1766,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_197",
-    "name": "1",
+    "name": "Anime #182",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(182).jpg",
     "format": "JPG",
@@ -1775,7 +1775,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_198",
-    "name": "1",
+    "name": "Anime #182",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(182).png",
     "format": "PNG",
@@ -1784,7 +1784,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_199",
-    "name": "1",
+    "name": "Anime #183",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(183).jpg",
     "format": "JPG",
@@ -1793,7 +1793,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_200",
-    "name": "1",
+    "name": "Anime #183",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(183).png",
     "format": "PNG",
@@ -1802,7 +1802,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_201",
-    "name": "1",
+    "name": "Anime #184",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(184).jpg",
     "format": "JPG",
@@ -1811,7 +1811,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_202",
-    "name": "1",
+    "name": "Anime #184",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(184).png",
     "format": "PNG",
@@ -1820,7 +1820,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_203",
-    "name": "1",
+    "name": "Anime #185",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(185).jpg",
     "format": "JPG",
@@ -1829,7 +1829,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_204",
-    "name": "1",
+    "name": "Anime #185",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(185).png",
     "format": "PNG",
@@ -1838,7 +1838,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_205",
-    "name": "1",
+    "name": "Anime #186",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(186).jpg",
     "format": "JPG",
@@ -1847,7 +1847,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_206",
-    "name": "1",
+    "name": "Anime #186",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(186).png",
     "format": "PNG",
@@ -1856,7 +1856,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_207",
-    "name": "1",
+    "name": "Anime #187",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(187).jpg",
     "format": "JPG",
@@ -1865,7 +1865,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_208",
-    "name": "1",
+    "name": "Anime #187",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(187).png",
     "format": "PNG",
@@ -1874,7 +1874,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_209",
-    "name": "1",
+    "name": "Anime #188",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(188).jpg",
     "format": "JPG",
@@ -1883,7 +1883,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_210",
-    "name": "1",
+    "name": "Anime #188",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(188).png",
     "format": "PNG",
@@ -1892,7 +1892,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_211",
-    "name": "1",
+    "name": "Anime #189",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(189).jpg",
     "format": "JPG",
@@ -1901,7 +1901,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_212",
-    "name": "1",
+    "name": "Anime #189",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(189).png",
     "format": "PNG",
@@ -1910,7 +1910,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_213",
-    "name": "1",
+    "name": "Anime #19",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(19).jpeg",
     "format": "JPEG",
@@ -1919,7 +1919,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_214",
-    "name": "1",
+    "name": "Anime #19",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(19).jpg",
     "format": "JPG",
@@ -1928,7 +1928,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_215",
-    "name": "1",
+    "name": "Anime #19",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(19).png",
     "format": "PNG",
@@ -1937,7 +1937,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_216",
-    "name": "1",
+    "name": "Anime #190",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(190).jpg",
     "format": "JPG",
@@ -1946,7 +1946,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_217",
-    "name": "1",
+    "name": "Anime #190",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(190).png",
     "format": "PNG",
@@ -1955,7 +1955,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_218",
-    "name": "1",
+    "name": "Anime #191",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(191).jpg",
     "format": "JPG",
@@ -1964,7 +1964,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_219",
-    "name": "1",
+    "name": "Anime #191",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(191).png",
     "format": "PNG",
@@ -1973,7 +1973,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_220",
-    "name": "1",
+    "name": "Anime #192",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(192).jpg",
     "format": "JPG",
@@ -1982,7 +1982,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_221",
-    "name": "1",
+    "name": "Anime #192",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(192).png",
     "format": "PNG",
@@ -1991,7 +1991,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_222",
-    "name": "1",
+    "name": "Anime #193",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(193).jpg",
     "format": "JPG",
@@ -2000,7 +2000,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_223",
-    "name": "1",
+    "name": "Anime #193",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(193).png",
     "format": "PNG",
@@ -2009,7 +2009,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_224",
-    "name": "1",
+    "name": "Anime #194",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(194).jpg",
     "format": "JPG",
@@ -2018,7 +2018,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_225",
-    "name": "1",
+    "name": "Anime #194",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(194).png",
     "format": "PNG",
@@ -2027,7 +2027,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_226",
-    "name": "1",
+    "name": "Anime #195",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(195).jpg",
     "format": "JPG",
@@ -2036,7 +2036,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_227",
-    "name": "1",
+    "name": "Anime #195",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(195).png",
     "format": "PNG",
@@ -2045,7 +2045,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_228",
-    "name": "1",
+    "name": "Anime #196",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(196).jpg",
     "format": "JPG",
@@ -2054,7 +2054,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_229",
-    "name": "1",
+    "name": "Anime #196",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(196).png",
     "format": "PNG",
@@ -2063,7 +2063,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_230",
-    "name": "1",
+    "name": "Anime #197",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(197).jpg",
     "format": "JPG",
@@ -2072,7 +2072,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_231",
-    "name": "1",
+    "name": "Anime #197",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(197).png",
     "format": "PNG",
@@ -2081,7 +2081,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_232",
-    "name": "1",
+    "name": "Anime #198",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(198).jpg",
     "format": "JPG",
@@ -2090,7 +2090,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_233",
-    "name": "1",
+    "name": "Anime #198",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(198).png",
     "format": "PNG",
@@ -2099,7 +2099,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_234",
-    "name": "1",
+    "name": "Anime #199",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(199).jpg",
     "format": "JPG",
@@ -2108,7 +2108,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_235",
-    "name": "1",
+    "name": "Anime #199",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(199).png",
     "format": "PNG",
@@ -2117,7 +2117,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_236",
-    "name": "1",
+    "name": "Anime #2",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(2).jpeg",
     "format": "JPEG",
@@ -2126,7 +2126,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_237",
-    "name": "1",
+    "name": "Anime #2",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(2).jpg",
     "format": "JPG",
@@ -2135,7 +2135,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_238",
-    "name": "1",
+    "name": "Anime #2",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(2).png",
     "format": "PNG",
@@ -2144,7 +2144,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_239",
-    "name": "1",
+    "name": "Anime #20",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(20).jpeg",
     "format": "JPEG",
@@ -2153,7 +2153,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_240",
-    "name": "1",
+    "name": "Anime #20",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(20).jpg",
     "format": "JPG",
@@ -2162,7 +2162,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_241",
-    "name": "1",
+    "name": "Anime #20",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(20).png",
     "format": "PNG",
@@ -2171,7 +2171,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_242",
-    "name": "1",
+    "name": "Anime #200",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(200).jpg",
     "format": "JPG",
@@ -2180,7 +2180,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_243",
-    "name": "1",
+    "name": "Anime #200",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(200).png",
     "format": "PNG",
@@ -2189,7 +2189,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_244",
-    "name": "1",
+    "name": "Anime #201",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(201).jpg",
     "format": "JPG",
@@ -2198,7 +2198,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_245",
-    "name": "1",
+    "name": "Anime #201",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(201).png",
     "format": "PNG",
@@ -2207,7 +2207,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_246",
-    "name": "1",
+    "name": "Anime #202",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(202).jpg",
     "format": "JPG",
@@ -2216,7 +2216,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_247",
-    "name": "1",
+    "name": "Anime #202",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(202).png",
     "format": "PNG",
@@ -2225,7 +2225,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_248",
-    "name": "1",
+    "name": "Anime #203",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(203).jpg",
     "format": "JPG",
@@ -2234,7 +2234,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_249",
-    "name": "1",
+    "name": "Anime #203",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(203).png",
     "format": "PNG",
@@ -2243,7 +2243,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_250",
-    "name": "1",
+    "name": "Anime #204",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(204).jpg",
     "format": "JPG",
@@ -2252,7 +2252,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_251",
-    "name": "1",
+    "name": "Anime #204",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(204).png",
     "format": "PNG",
@@ -2261,7 +2261,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_252",
-    "name": "1",
+    "name": "Anime #205",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(205).jpg",
     "format": "JPG",
@@ -2270,7 +2270,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_253",
-    "name": "1",
+    "name": "Anime #205",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(205).png",
     "format": "PNG",
@@ -2279,7 +2279,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_254",
-    "name": "1",
+    "name": "Anime #206",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(206).jpg",
     "format": "JPG",
@@ -2288,7 +2288,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_255",
-    "name": "1",
+    "name": "Anime #206",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(206).png",
     "format": "PNG",
@@ -2297,7 +2297,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_256",
-    "name": "1",
+    "name": "Anime #207",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(207).jpg",
     "format": "JPG",
@@ -2306,7 +2306,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_257",
-    "name": "1",
+    "name": "Anime #207",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(207).png",
     "format": "PNG",
@@ -2315,7 +2315,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_258",
-    "name": "1",
+    "name": "Anime #208",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(208).jpg",
     "format": "JPG",
@@ -2324,7 +2324,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_259",
-    "name": "1",
+    "name": "Anime #208",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(208).png",
     "format": "PNG",
@@ -2333,7 +2333,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_260",
-    "name": "1",
+    "name": "Anime #209",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(209).jpg",
     "format": "JPG",
@@ -2342,7 +2342,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_261",
-    "name": "1",
+    "name": "Anime #209",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(209).png",
     "format": "PNG",
@@ -2351,7 +2351,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_262",
-    "name": "1",
+    "name": "Anime #21",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(21).jpeg",
     "format": "JPEG",
@@ -2360,7 +2360,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_263",
-    "name": "1",
+    "name": "Anime #21",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(21).jpg",
     "format": "JPG",
@@ -2369,7 +2369,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_264",
-    "name": "1",
+    "name": "Anime #21",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(21).png",
     "format": "PNG",
@@ -2378,7 +2378,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_265",
-    "name": "1",
+    "name": "Anime #210",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(210).jpg",
     "format": "JPG",
@@ -2387,7 +2387,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_266",
-    "name": "1",
+    "name": "Anime #210",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(210).png",
     "format": "PNG",
@@ -2396,7 +2396,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_267",
-    "name": "1",
+    "name": "Anime #211",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(211).jpg",
     "format": "JPG",
@@ -2405,7 +2405,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_268",
-    "name": "1",
+    "name": "Anime #211",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(211).png",
     "format": "PNG",
@@ -2414,7 +2414,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_269",
-    "name": "1",
+    "name": "Anime #212",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(212).jpg",
     "format": "JPG",
@@ -2423,7 +2423,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_270",
-    "name": "1",
+    "name": "Anime #212",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(212).png",
     "format": "PNG",
@@ -2432,7 +2432,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_271",
-    "name": "1",
+    "name": "Anime #213",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(213).jpg",
     "format": "JPG",
@@ -2441,7 +2441,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_272",
-    "name": "1",
+    "name": "Anime #213",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(213).png",
     "format": "PNG",
@@ -2450,7 +2450,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_273",
-    "name": "1",
+    "name": "Anime #214",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(214).jpg",
     "format": "JPG",
@@ -2459,7 +2459,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_274",
-    "name": "1",
+    "name": "Anime #214",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(214).png",
     "format": "PNG",
@@ -2468,7 +2468,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_275",
-    "name": "1",
+    "name": "Anime #215",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(215).jpg",
     "format": "JPG",
@@ -2477,7 +2477,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_276",
-    "name": "1",
+    "name": "Anime #215",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(215).png",
     "format": "PNG",
@@ -2486,7 +2486,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_277",
-    "name": "1",
+    "name": "Anime #216",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(216).jpg",
     "format": "JPG",
@@ -2495,7 +2495,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_278",
-    "name": "1",
+    "name": "Anime #216",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(216).png",
     "format": "PNG",
@@ -2504,7 +2504,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_279",
-    "name": "1",
+    "name": "Anime #217",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(217).jpg",
     "format": "JPG",
@@ -2513,7 +2513,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_280",
-    "name": "1",
+    "name": "Anime #217",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(217).png",
     "format": "PNG",
@@ -2522,7 +2522,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_281",
-    "name": "1",
+    "name": "Anime #218",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(218).jpg",
     "format": "JPG",
@@ -2531,7 +2531,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_282",
-    "name": "1",
+    "name": "Anime #218",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(218).png",
     "format": "PNG",
@@ -2540,7 +2540,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_283",
-    "name": "1",
+    "name": "Anime #219",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(219).jpg",
     "format": "JPG",
@@ -2549,7 +2549,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_284",
-    "name": "1",
+    "name": "Anime #219",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(219).png",
     "format": "PNG",
@@ -2558,7 +2558,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_285",
-    "name": "1",
+    "name": "Anime #22",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(22).jpeg",
     "format": "JPEG",
@@ -2567,7 +2567,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_286",
-    "name": "1",
+    "name": "Anime #22",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(22).jpg",
     "format": "JPG",
@@ -2576,7 +2576,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_287",
-    "name": "1",
+    "name": "Anime #22",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(22).png",
     "format": "PNG",
@@ -2585,7 +2585,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_288",
-    "name": "1",
+    "name": "Anime #220",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(220).jpg",
     "format": "JPG",
@@ -2594,7 +2594,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_289",
-    "name": "1",
+    "name": "Anime #220",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(220).png",
     "format": "PNG",
@@ -2603,7 +2603,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_290",
-    "name": "1",
+    "name": "Anime #221",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(221).jpg",
     "format": "JPG",
@@ -2612,7 +2612,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_291",
-    "name": "1",
+    "name": "Anime #221",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(221).png",
     "format": "PNG",
@@ -2621,7 +2621,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_292",
-    "name": "1",
+    "name": "Anime #222",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(222).jpg",
     "format": "JPG",
@@ -2630,7 +2630,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_293",
-    "name": "1",
+    "name": "Anime #222",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(222).png",
     "format": "PNG",
@@ -2639,7 +2639,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_294",
-    "name": "1",
+    "name": "Anime #223",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(223).jpg",
     "format": "JPG",
@@ -2648,7 +2648,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_295",
-    "name": "1",
+    "name": "Anime #223",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(223).png",
     "format": "PNG",
@@ -2657,7 +2657,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_296",
-    "name": "1",
+    "name": "Anime #224",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(224).jpg",
     "format": "JPG",
@@ -2666,7 +2666,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_297",
-    "name": "1",
+    "name": "Anime #224",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(224).png",
     "format": "PNG",
@@ -2675,7 +2675,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_298",
-    "name": "1",
+    "name": "Anime #225",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(225).jpg",
     "format": "JPG",
@@ -2684,7 +2684,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_299",
-    "name": "1",
+    "name": "Anime #225",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(225).png",
     "format": "PNG",
@@ -2693,7 +2693,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_300",
-    "name": "1",
+    "name": "Anime #226",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(226).jpg",
     "format": "JPG",
@@ -2702,7 +2702,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_301",
-    "name": "1",
+    "name": "Anime #226",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(226).png",
     "format": "PNG",
@@ -2711,7 +2711,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_302",
-    "name": "1",
+    "name": "Anime #227",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(227).jpg",
     "format": "JPG",
@@ -2720,7 +2720,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_303",
-    "name": "1",
+    "name": "Anime #227",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(227).png",
     "format": "PNG",
@@ -2729,7 +2729,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_304",
-    "name": "1",
+    "name": "Anime #228",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(228).jpg",
     "format": "JPG",
@@ -2738,7 +2738,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_305",
-    "name": "1",
+    "name": "Anime #228",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(228).png",
     "format": "PNG",
@@ -2747,7 +2747,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_306",
-    "name": "1",
+    "name": "Anime #229",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(229).jpg",
     "format": "JPG",
@@ -2756,7 +2756,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_307",
-    "name": "1",
+    "name": "Anime #229",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(229).png",
     "format": "PNG",
@@ -2765,7 +2765,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_308",
-    "name": "1",
+    "name": "Anime #23",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(23).jpeg",
     "format": "JPEG",
@@ -2774,7 +2774,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_309",
-    "name": "1",
+    "name": "Anime #23",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(23).jpg",
     "format": "JPG",
@@ -2783,7 +2783,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_310",
-    "name": "1",
+    "name": "Anime #23",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(23).png",
     "format": "PNG",
@@ -2792,7 +2792,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_311",
-    "name": "1",
+    "name": "Anime #230",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(230).jpg",
     "format": "JPG",
@@ -2801,7 +2801,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_312",
-    "name": "1",
+    "name": "Anime #230",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(230).png",
     "format": "PNG",
@@ -2810,7 +2810,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_313",
-    "name": "1",
+    "name": "Anime #231",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(231).jpg",
     "format": "JPG",
@@ -2819,7 +2819,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_314",
-    "name": "1",
+    "name": "Anime #231",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(231).png",
     "format": "PNG",
@@ -2828,7 +2828,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_315",
-    "name": "1",
+    "name": "Anime #232",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(232).jpg",
     "format": "JPG",
@@ -2837,7 +2837,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_316",
-    "name": "1",
+    "name": "Anime #232",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(232).png",
     "format": "PNG",
@@ -2846,7 +2846,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_317",
-    "name": "1",
+    "name": "Anime #233",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(233).jpg",
     "format": "JPG",
@@ -2855,7 +2855,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_318",
-    "name": "1",
+    "name": "Anime #233",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(233).png",
     "format": "PNG",
@@ -2864,7 +2864,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_319",
-    "name": "1",
+    "name": "Anime #234",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(234).jpg",
     "format": "JPG",
@@ -2873,7 +2873,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_320",
-    "name": "1",
+    "name": "Anime #234",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(234).png",
     "format": "PNG",
@@ -2882,7 +2882,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_321",
-    "name": "1",
+    "name": "Anime #235",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(235).jpg",
     "format": "JPG",
@@ -2891,7 +2891,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_322",
-    "name": "1",
+    "name": "Anime #235",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(235).png",
     "format": "PNG",
@@ -2900,7 +2900,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_323",
-    "name": "1",
+    "name": "Anime #236",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(236).jpg",
     "format": "JPG",
@@ -2909,7 +2909,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_324",
-    "name": "1",
+    "name": "Anime #236",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(236).png",
     "format": "PNG",
@@ -2918,7 +2918,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_325",
-    "name": "1",
+    "name": "Anime #237",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(237).jpg",
     "format": "JPG",
@@ -2927,7 +2927,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_326",
-    "name": "1",
+    "name": "Anime #237",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(237).png",
     "format": "PNG",
@@ -2936,7 +2936,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_327",
-    "name": "1",
+    "name": "Anime #238",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(238).jpg",
     "format": "JPG",
@@ -2945,7 +2945,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_328",
-    "name": "1",
+    "name": "Anime #238",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(238).png",
     "format": "PNG",
@@ -2954,7 +2954,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_329",
-    "name": "1",
+    "name": "Anime #239",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(239).jpg",
     "format": "JPG",
@@ -2963,7 +2963,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_330",
-    "name": "1",
+    "name": "Anime #239",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(239).png",
     "format": "PNG",
@@ -2972,7 +2972,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_331",
-    "name": "1",
+    "name": "Anime #24",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(24).jpeg",
     "format": "JPEG",
@@ -2981,7 +2981,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_332",
-    "name": "1",
+    "name": "Anime #24",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(24).jpg",
     "format": "JPG",
@@ -2990,7 +2990,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_333",
-    "name": "1",
+    "name": "Anime #24",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(24).png",
     "format": "PNG",
@@ -2999,7 +2999,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_334",
-    "name": "1",
+    "name": "Anime #240",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(240).jpg",
     "format": "JPG",
@@ -3008,7 +3008,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_335",
-    "name": "1",
+    "name": "Anime #240",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(240).png",
     "format": "PNG",
@@ -3017,7 +3017,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_336",
-    "name": "1",
+    "name": "Anime #241",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(241).jpg",
     "format": "JPG",
@@ -3026,7 +3026,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_337",
-    "name": "1",
+    "name": "Anime #241",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(241).png",
     "format": "PNG",
@@ -3035,7 +3035,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_338",
-    "name": "1",
+    "name": "Anime #242",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(242).jpg",
     "format": "JPG",
@@ -3044,7 +3044,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_339",
-    "name": "1",
+    "name": "Anime #242",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(242).png",
     "format": "PNG",
@@ -3053,7 +3053,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_340",
-    "name": "1",
+    "name": "Anime #243",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(243).jpg",
     "format": "JPG",
@@ -3062,7 +3062,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_341",
-    "name": "1",
+    "name": "Anime #243",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(243).png",
     "format": "PNG",
@@ -3071,7 +3071,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_342",
-    "name": "1",
+    "name": "Anime #244",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(244).jpg",
     "format": "JPG",
@@ -3080,7 +3080,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_343",
-    "name": "1",
+    "name": "Anime #244",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(244).png",
     "format": "PNG",
@@ -3089,7 +3089,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_344",
-    "name": "1",
+    "name": "Anime #245",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(245).jpg",
     "format": "JPG",
@@ -3098,7 +3098,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_345",
-    "name": "1",
+    "name": "Anime #245",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(245).png",
     "format": "PNG",
@@ -3107,7 +3107,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_346",
-    "name": "1",
+    "name": "Anime #246",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(246).jpg",
     "format": "JPG",
@@ -3116,7 +3116,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_347",
-    "name": "1",
+    "name": "Anime #246",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(246).png",
     "format": "PNG",
@@ -3125,7 +3125,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_348",
-    "name": "1",
+    "name": "Anime #247",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(247).jpg",
     "format": "JPG",
@@ -3134,7 +3134,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_349",
-    "name": "1",
+    "name": "Anime #247",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(247).png",
     "format": "PNG",
@@ -3143,7 +3143,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_350",
-    "name": "1",
+    "name": "Anime #248",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(248).jpg",
     "format": "JPG",
@@ -3152,7 +3152,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_351",
-    "name": "1",
+    "name": "Anime #248",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(248).png",
     "format": "PNG",
@@ -3161,7 +3161,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_352",
-    "name": "1",
+    "name": "Anime #249",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(249).jpg",
     "format": "JPG",
@@ -3170,7 +3170,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_353",
-    "name": "1",
+    "name": "Anime #249",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(249).png",
     "format": "PNG",
@@ -3179,7 +3179,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_354",
-    "name": "1",
+    "name": "Anime #25",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(25).jpeg",
     "format": "JPEG",
@@ -3188,7 +3188,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_355",
-    "name": "1",
+    "name": "Anime #25",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(25).jpg",
     "format": "JPG",
@@ -3197,7 +3197,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_356",
-    "name": "1",
+    "name": "Anime #25",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(25).png",
     "format": "PNG",
@@ -3206,7 +3206,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_357",
-    "name": "1",
+    "name": "Anime #250",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(250).jpg",
     "format": "JPG",
@@ -3215,7 +3215,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_358",
-    "name": "1",
+    "name": "Anime #250",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(250).png",
     "format": "PNG",
@@ -3224,7 +3224,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_359",
-    "name": "1",
+    "name": "Anime #251",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(251).jpg",
     "format": "JPG",
@@ -3233,7 +3233,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_360",
-    "name": "1",
+    "name": "Anime #251",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(251).png",
     "format": "PNG",
@@ -3242,7 +3242,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_361",
-    "name": "1",
+    "name": "Anime #252",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(252).jpg",
     "format": "JPG",
@@ -3251,7 +3251,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_362",
-    "name": "1",
+    "name": "Anime #252",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(252).png",
     "format": "PNG",
@@ -3260,7 +3260,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_363",
-    "name": "1",
+    "name": "Anime #253",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(253).jpg",
     "format": "JPG",
@@ -3269,7 +3269,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_364",
-    "name": "1",
+    "name": "Anime #253",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(253).png",
     "format": "PNG",
@@ -3278,7 +3278,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_365",
-    "name": "1",
+    "name": "Anime #254",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(254).jpg",
     "format": "JPG",
@@ -3287,7 +3287,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_366",
-    "name": "1",
+    "name": "Anime #254",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(254).png",
     "format": "PNG",
@@ -3296,7 +3296,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_367",
-    "name": "1",
+    "name": "Anime #255",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(255).jpg",
     "format": "JPG",
@@ -3305,7 +3305,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_368",
-    "name": "1",
+    "name": "Anime #255",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(255).png",
     "format": "PNG",
@@ -3314,7 +3314,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_369",
-    "name": "1",
+    "name": "Anime #256",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(256).jpg",
     "format": "JPG",
@@ -3323,7 +3323,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_370",
-    "name": "1",
+    "name": "Anime #256",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(256).png",
     "format": "PNG",
@@ -3332,7 +3332,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_371",
-    "name": "1",
+    "name": "Anime #257",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(257).jpg",
     "format": "JPG",
@@ -3341,7 +3341,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_372",
-    "name": "1",
+    "name": "Anime #257",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(257).png",
     "format": "PNG",
@@ -3350,7 +3350,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_373",
-    "name": "1",
+    "name": "Anime #258",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(258).jpg",
     "format": "JPG",
@@ -3359,7 +3359,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_374",
-    "name": "1",
+    "name": "Anime #258",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(258).png",
     "format": "PNG",
@@ -3368,7 +3368,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_375",
-    "name": "1",
+    "name": "Anime #259",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(259).jpg",
     "format": "JPG",
@@ -3377,7 +3377,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_376",
-    "name": "1",
+    "name": "Anime #259",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(259).png",
     "format": "PNG",
@@ -3386,7 +3386,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_377",
-    "name": "1",
+    "name": "Anime #26",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(26).jpeg",
     "format": "JPEG",
@@ -3395,7 +3395,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_378",
-    "name": "1",
+    "name": "Anime #26",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(26).jpg",
     "format": "JPG",
@@ -3404,7 +3404,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_379",
-    "name": "1",
+    "name": "Anime #26",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(26).png",
     "format": "PNG",
@@ -3413,7 +3413,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_380",
-    "name": "1",
+    "name": "Anime #260",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(260).jpg",
     "format": "JPG",
@@ -3422,7 +3422,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_381",
-    "name": "1",
+    "name": "Anime #260",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(260).png",
     "format": "PNG",
@@ -3431,7 +3431,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_382",
-    "name": "1",
+    "name": "Anime #261",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(261).jpg",
     "format": "JPG",
@@ -3440,7 +3440,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_383",
-    "name": "1",
+    "name": "Anime #261",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(261).png",
     "format": "PNG",
@@ -3449,7 +3449,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_384",
-    "name": "1",
+    "name": "Anime #262",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(262).jpg",
     "format": "JPG",
@@ -3458,7 +3458,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_385",
-    "name": "1",
+    "name": "Anime #262",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(262).png",
     "format": "PNG",
@@ -3467,7 +3467,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_386",
-    "name": "1",
+    "name": "Anime #263",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(263).jpg",
     "format": "JPG",
@@ -3476,7 +3476,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_387",
-    "name": "1",
+    "name": "Anime #263",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(263).png",
     "format": "PNG",
@@ -3485,7 +3485,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_388",
-    "name": "1",
+    "name": "Anime #264",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(264).jpg",
     "format": "JPG",
@@ -3494,7 +3494,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_389",
-    "name": "1",
+    "name": "Anime #264",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(264).png",
     "format": "PNG",
@@ -3503,7 +3503,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_390",
-    "name": "1",
+    "name": "Anime #265",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(265).jpg",
     "format": "JPG",
@@ -3512,7 +3512,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_391",
-    "name": "1",
+    "name": "Anime #265",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(265).png",
     "format": "PNG",
@@ -3521,7 +3521,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_392",
-    "name": "1",
+    "name": "Anime #266",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(266).jpg",
     "format": "JPG",
@@ -3530,7 +3530,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_393",
-    "name": "1",
+    "name": "Anime #266",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(266).png",
     "format": "PNG",
@@ -3539,7 +3539,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_394",
-    "name": "1",
+    "name": "Anime #267",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(267).jpg",
     "format": "JPG",
@@ -3548,7 +3548,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_395",
-    "name": "1",
+    "name": "Anime #267",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(267).png",
     "format": "PNG",
@@ -3557,7 +3557,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_396",
-    "name": "1",
+    "name": "Anime #268",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(268).jpg",
     "format": "JPG",
@@ -3566,7 +3566,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_397",
-    "name": "1",
+    "name": "Anime #268",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(268).png",
     "format": "PNG",
@@ -3575,7 +3575,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_398",
-    "name": "1",
+    "name": "Anime #269",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(269).jpg",
     "format": "JPG",
@@ -3584,7 +3584,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_399",
-    "name": "1",
+    "name": "Anime #269",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(269).png",
     "format": "PNG",
@@ -3593,7 +3593,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_400",
-    "name": "1",
+    "name": "Anime #27",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(27).jpeg",
     "format": "JPEG",
@@ -3602,7 +3602,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_401",
-    "name": "1",
+    "name": "Anime #27",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(27).jpg",
     "format": "JPG",
@@ -3611,7 +3611,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_402",
-    "name": "1",
+    "name": "Anime #27",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(27).png",
     "format": "PNG",
@@ -3620,7 +3620,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_403",
-    "name": "1",
+    "name": "Anime #270",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(270).jpg",
     "format": "JPG",
@@ -3629,7 +3629,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_404",
-    "name": "1",
+    "name": "Anime #270",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(270).png",
     "format": "PNG",
@@ -3638,7 +3638,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_405",
-    "name": "1",
+    "name": "Anime #271",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(271).jpg",
     "format": "JPG",
@@ -3647,7 +3647,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_406",
-    "name": "1",
+    "name": "Anime #271",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(271).png",
     "format": "PNG",
@@ -3656,7 +3656,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_407",
-    "name": "1",
+    "name": "Anime #272",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(272).jpg",
     "format": "JPG",
@@ -3665,7 +3665,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_408",
-    "name": "1",
+    "name": "Anime #272",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(272).png",
     "format": "PNG",
@@ -3674,7 +3674,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_409",
-    "name": "1",
+    "name": "Anime #273",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(273).jpg",
     "format": "JPG",
@@ -3683,7 +3683,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_410",
-    "name": "1",
+    "name": "Anime #273",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(273).png",
     "format": "PNG",
@@ -3692,7 +3692,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_411",
-    "name": "1",
+    "name": "Anime #274",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(274).jpg",
     "format": "JPG",
@@ -3701,7 +3701,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_412",
-    "name": "1",
+    "name": "Anime #274",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(274).png",
     "format": "PNG",
@@ -3710,7 +3710,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_413",
-    "name": "1",
+    "name": "Anime #275",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(275).jpg",
     "format": "JPG",
@@ -3719,7 +3719,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_414",
-    "name": "1",
+    "name": "Anime #275",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(275).png",
     "format": "PNG",
@@ -3728,7 +3728,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_415",
-    "name": "1",
+    "name": "Anime #276",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(276).jpg",
     "format": "JPG",
@@ -3737,7 +3737,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_416",
-    "name": "1",
+    "name": "Anime #276",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(276).png",
     "format": "PNG",
@@ -3746,7 +3746,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_417",
-    "name": "1",
+    "name": "Anime #277",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(277).jpg",
     "format": "JPG",
@@ -3755,7 +3755,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_418",
-    "name": "1",
+    "name": "Anime #277",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(277).png",
     "format": "PNG",
@@ -3764,7 +3764,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_419",
-    "name": "1",
+    "name": "Anime #278",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(278).jpg",
     "format": "JPG",
@@ -3773,7 +3773,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_420",
-    "name": "1",
+    "name": "Anime #278",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(278).png",
     "format": "PNG",
@@ -3782,7 +3782,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_421",
-    "name": "1",
+    "name": "Anime #279",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(279).jpg",
     "format": "JPG",
@@ -3791,7 +3791,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_422",
-    "name": "1",
+    "name": "Anime #279",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(279).png",
     "format": "PNG",
@@ -3800,7 +3800,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_423",
-    "name": "1",
+    "name": "Anime #28",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(28).jpeg",
     "format": "JPEG",
@@ -3809,7 +3809,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_424",
-    "name": "1",
+    "name": "Anime #28",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(28).jpg",
     "format": "JPG",
@@ -3818,7 +3818,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_425",
-    "name": "1",
+    "name": "Anime #28",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(28).png",
     "format": "PNG",
@@ -3827,7 +3827,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_426",
-    "name": "1",
+    "name": "Anime #280",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(280).jpg",
     "format": "JPG",
@@ -3836,7 +3836,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_427",
-    "name": "1",
+    "name": "Anime #280",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(280).png",
     "format": "PNG",
@@ -3845,7 +3845,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_428",
-    "name": "1",
+    "name": "Anime #281",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(281).jpg",
     "format": "JPG",
@@ -3854,7 +3854,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_429",
-    "name": "1",
+    "name": "Anime #281",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(281).png",
     "format": "PNG",
@@ -3863,7 +3863,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_430",
-    "name": "1",
+    "name": "Anime #282",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(282).jpg",
     "format": "JPG",
@@ -3872,7 +3872,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_431",
-    "name": "1",
+    "name": "Anime #282",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(282).png",
     "format": "PNG",
@@ -3881,7 +3881,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_432",
-    "name": "1",
+    "name": "Anime #283",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(283).jpg",
     "format": "JPG",
@@ -3890,7 +3890,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_433",
-    "name": "1",
+    "name": "Anime #283",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(283).png",
     "format": "PNG",
@@ -3899,7 +3899,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_434",
-    "name": "1",
+    "name": "Anime #284",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(284).jpg",
     "format": "JPG",
@@ -3908,7 +3908,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_435",
-    "name": "1",
+    "name": "Anime #284",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(284).png",
     "format": "PNG",
@@ -3917,7 +3917,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_436",
-    "name": "1",
+    "name": "Anime #285",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(285).jpg",
     "format": "JPG",
@@ -3926,7 +3926,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_437",
-    "name": "1",
+    "name": "Anime #285",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(285).png",
     "format": "PNG",
@@ -3935,7 +3935,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_438",
-    "name": "1",
+    "name": "Anime #286",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(286).jpg",
     "format": "JPG",
@@ -3944,7 +3944,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_439",
-    "name": "1",
+    "name": "Anime #286",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(286).png",
     "format": "PNG",
@@ -3953,7 +3953,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_440",
-    "name": "1",
+    "name": "Anime #287",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(287).jpg",
     "format": "JPG",
@@ -3962,7 +3962,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_441",
-    "name": "1",
+    "name": "Anime #287",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(287).png",
     "format": "PNG",
@@ -3971,7 +3971,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_442",
-    "name": "1",
+    "name": "Anime #288",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(288).jpg",
     "format": "JPG",
@@ -3980,7 +3980,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_443",
-    "name": "1",
+    "name": "Anime #288",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(288).png",
     "format": "PNG",
@@ -3989,7 +3989,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_444",
-    "name": "1",
+    "name": "Anime #289",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(289).jpg",
     "format": "JPG",
@@ -3998,7 +3998,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_445",
-    "name": "1",
+    "name": "Anime #289",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(289).png",
     "format": "PNG",
@@ -4007,7 +4007,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_446",
-    "name": "1",
+    "name": "Anime #29",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(29).jpeg",
     "format": "JPEG",
@@ -4016,7 +4016,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_447",
-    "name": "1",
+    "name": "Anime #29",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(29).jpg",
     "format": "JPG",
@@ -4025,7 +4025,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_448",
-    "name": "1",
+    "name": "Anime #29",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(29).png",
     "format": "PNG",
@@ -4034,7 +4034,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_449",
-    "name": "1",
+    "name": "Anime #290",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(290).jpg",
     "format": "JPG",
@@ -4043,7 +4043,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_450",
-    "name": "1",
+    "name": "Anime #290",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(290).png",
     "format": "PNG",
@@ -4052,7 +4052,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_451",
-    "name": "1",
+    "name": "Anime #291",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(291).jpg",
     "format": "JPG",
@@ -4061,7 +4061,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_452",
-    "name": "1",
+    "name": "Anime #291",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(291).png",
     "format": "PNG",
@@ -4070,7 +4070,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_453",
-    "name": "1",
+    "name": "Anime #292",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(292).jpg",
     "format": "JPG",
@@ -4079,7 +4079,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_454",
-    "name": "1",
+    "name": "Anime #292",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(292).png",
     "format": "PNG",
@@ -4088,7 +4088,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_455",
-    "name": "1",
+    "name": "Anime #293",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(293).jpg",
     "format": "JPG",
@@ -4097,7 +4097,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_456",
-    "name": "1",
+    "name": "Anime #293",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(293).png",
     "format": "PNG",
@@ -4106,7 +4106,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_457",
-    "name": "1",
+    "name": "Anime #294",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(294).jpg",
     "format": "JPG",
@@ -4115,7 +4115,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_458",
-    "name": "1",
+    "name": "Anime #294",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(294).png",
     "format": "PNG",
@@ -4124,7 +4124,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_459",
-    "name": "1",
+    "name": "Anime #295",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(295).jpg",
     "format": "JPG",
@@ -4133,7 +4133,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_460",
-    "name": "1",
+    "name": "Anime #295",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(295).png",
     "format": "PNG",
@@ -4142,7 +4142,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_461",
-    "name": "1",
+    "name": "Anime #296",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(296).jpg",
     "format": "JPG",
@@ -4151,7 +4151,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_462",
-    "name": "1",
+    "name": "Anime #296",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(296).png",
     "format": "PNG",
@@ -4160,7 +4160,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_463",
-    "name": "1",
+    "name": "Anime #297",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(297).png",
     "format": "PNG",
@@ -4169,7 +4169,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_464",
-    "name": "1",
+    "name": "Anime #298",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(298).png",
     "format": "PNG",
@@ -4178,7 +4178,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_465",
-    "name": "1",
+    "name": "Anime #299",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(299).png",
     "format": "PNG",
@@ -4187,7 +4187,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_466",
-    "name": "1",
+    "name": "Anime #3",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(3).jpeg",
     "format": "JPEG",
@@ -4196,7 +4196,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_467",
-    "name": "1",
+    "name": "Anime #3",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(3).jpg",
     "format": "JPG",
@@ -4205,7 +4205,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_468",
-    "name": "1",
+    "name": "Anime #3",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(3).png",
     "format": "PNG",
@@ -4214,7 +4214,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_469",
-    "name": "1",
+    "name": "Anime #30",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(30).jpeg",
     "format": "JPEG",
@@ -4223,7 +4223,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_470",
-    "name": "1",
+    "name": "Anime #30",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(30).jpg",
     "format": "JPG",
@@ -4232,7 +4232,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_471",
-    "name": "1",
+    "name": "Anime #30",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(30).png",
     "format": "PNG",
@@ -4241,7 +4241,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_472",
-    "name": "1",
+    "name": "Anime #300",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(300).png",
     "format": "PNG",
@@ -4250,7 +4250,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_473",
-    "name": "1",
+    "name": "Anime #301",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(301).png",
     "format": "PNG",
@@ -4259,7 +4259,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_474",
-    "name": "1",
+    "name": "Anime #302",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(302).png",
     "format": "PNG",
@@ -4268,7 +4268,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_475",
-    "name": "1",
+    "name": "Anime #303",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(303).png",
     "format": "PNG",
@@ -4277,7 +4277,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_476",
-    "name": "1",
+    "name": "Anime #304",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(304).png",
     "format": "PNG",
@@ -4286,7 +4286,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_477",
-    "name": "1",
+    "name": "Anime #305",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(305).png",
     "format": "PNG",
@@ -4295,7 +4295,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_478",
-    "name": "1",
+    "name": "Anime #306",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(306).png",
     "format": "PNG",
@@ -4304,7 +4304,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_479",
-    "name": "1",
+    "name": "Anime #307",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(307).png",
     "format": "PNG",
@@ -4313,7 +4313,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_480",
-    "name": "1",
+    "name": "Anime #308",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(308).png",
     "format": "PNG",
@@ -4322,7 +4322,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_481",
-    "name": "1",
+    "name": "Anime #309",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(309).png",
     "format": "PNG",
@@ -4331,7 +4331,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_482",
-    "name": "1",
+    "name": "Anime #31",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(31).jpeg",
     "format": "JPEG",
@@ -4340,7 +4340,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_483",
-    "name": "1",
+    "name": "Anime #31",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(31).jpg",
     "format": "JPG",
@@ -4349,7 +4349,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_484",
-    "name": "1",
+    "name": "Anime #31",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(31).png",
     "format": "PNG",
@@ -4358,7 +4358,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_485",
-    "name": "1",
+    "name": "Anime #310",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(310).png",
     "format": "PNG",
@@ -4367,7 +4367,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_486",
-    "name": "1",
+    "name": "Anime #311",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(311).png",
     "format": "PNG",
@@ -4376,7 +4376,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_487",
-    "name": "1",
+    "name": "Anime #312",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(312).png",
     "format": "PNG",
@@ -4385,7 +4385,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_488",
-    "name": "1",
+    "name": "Anime #313",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(313).png",
     "format": "PNG",
@@ -4394,7 +4394,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_489",
-    "name": "1",
+    "name": "Anime #314",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(314).png",
     "format": "PNG",
@@ -4403,7 +4403,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_490",
-    "name": "1",
+    "name": "Anime #315",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(315).png",
     "format": "PNG",
@@ -4412,7 +4412,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_491",
-    "name": "1",
+    "name": "Anime #316",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(316).png",
     "format": "PNG",
@@ -4421,7 +4421,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_492",
-    "name": "1",
+    "name": "Anime #317",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(317).png",
     "format": "PNG",
@@ -4430,7 +4430,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_493",
-    "name": "1",
+    "name": "Anime #318",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(318).png",
     "format": "PNG",
@@ -4439,7 +4439,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_494",
-    "name": "1",
+    "name": "Anime #319",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(319).png",
     "format": "PNG",
@@ -4448,7 +4448,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_495",
-    "name": "1",
+    "name": "Anime #32",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(32).jpeg",
     "format": "JPEG",
@@ -4457,7 +4457,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_496",
-    "name": "1",
+    "name": "Anime #32",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(32).jpg",
     "format": "JPG",
@@ -4466,7 +4466,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_497",
-    "name": "1",
+    "name": "Anime #32",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(32).png",
     "format": "PNG",
@@ -4475,7 +4475,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_498",
-    "name": "1",
+    "name": "Anime #320",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(320).png",
     "format": "PNG",
@@ -4484,7 +4484,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_499",
-    "name": "1",
+    "name": "Anime #321",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(321).png",
     "format": "PNG",
@@ -4493,7 +4493,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_500",
-    "name": "1",
+    "name": "Anime #322",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(322).png",
     "format": "PNG",
@@ -4502,7 +4502,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_501",
-    "name": "1",
+    "name": "Anime #323",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(323).png",
     "format": "PNG",
@@ -4511,7 +4511,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_502",
-    "name": "1",
+    "name": "Anime #324",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(324).png",
     "format": "PNG",
@@ -4520,7 +4520,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_503",
-    "name": "1",
+    "name": "Anime #325",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(325).png",
     "format": "PNG",
@@ -4529,7 +4529,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_504",
-    "name": "1",
+    "name": "Anime #326",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(326).png",
     "format": "PNG",
@@ -4538,7 +4538,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_505",
-    "name": "1",
+    "name": "Anime #33",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(33).jpeg",
     "format": "JPEG",
@@ -4547,7 +4547,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_506",
-    "name": "1",
+    "name": "Anime #33",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(33).jpg",
     "format": "JPG",
@@ -4556,7 +4556,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_507",
-    "name": "1",
+    "name": "Anime #33",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(33).png",
     "format": "PNG",
@@ -4565,7 +4565,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_508",
-    "name": "1",
+    "name": "Anime #34",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(34).jpeg",
     "format": "JPEG",
@@ -4574,7 +4574,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_509",
-    "name": "1",
+    "name": "Anime #34",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(34).jpg",
     "format": "JPG",
@@ -4583,7 +4583,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_510",
-    "name": "1",
+    "name": "Anime #34",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(34).png",
     "format": "PNG",
@@ -4592,7 +4592,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_511",
-    "name": "1",
+    "name": "Anime #35",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(35).jpeg",
     "format": "JPEG",
@@ -4601,7 +4601,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_512",
-    "name": "1",
+    "name": "Anime #35",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(35).jpg",
     "format": "JPG",
@@ -4610,7 +4610,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_513",
-    "name": "1",
+    "name": "Anime #35",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(35).png",
     "format": "PNG",
@@ -4619,7 +4619,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_514",
-    "name": "1",
+    "name": "Anime #36",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(36).jpeg",
     "format": "JPEG",
@@ -4628,7 +4628,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_515",
-    "name": "1",
+    "name": "Anime #36",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(36).jpg",
     "format": "JPG",
@@ -4637,7 +4637,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_516",
-    "name": "1",
+    "name": "Anime #36",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(36).png",
     "format": "PNG",
@@ -4646,7 +4646,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_517",
-    "name": "1",
+    "name": "Anime #37",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(37).jpeg",
     "format": "JPEG",
@@ -4655,7 +4655,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_518",
-    "name": "1",
+    "name": "Anime #37",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(37).jpg",
     "format": "JPG",
@@ -4664,7 +4664,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_519",
-    "name": "1",
+    "name": "Anime #37",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(37).png",
     "format": "PNG",
@@ -4673,7 +4673,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_520",
-    "name": "1",
+    "name": "Anime #38",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(38).jpeg",
     "format": "JPEG",
@@ -4682,7 +4682,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_521",
-    "name": "1",
+    "name": "Anime #38",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(38).jpg",
     "format": "JPG",
@@ -4691,7 +4691,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_522",
-    "name": "1",
+    "name": "Anime #38",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(38).png",
     "format": "PNG",
@@ -4700,7 +4700,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_523",
-    "name": "1",
+    "name": "Anime #39",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(39).jpeg",
     "format": "JPEG",
@@ -4709,7 +4709,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_524",
-    "name": "1",
+    "name": "Anime #39",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(39).jpg",
     "format": "JPG",
@@ -4718,7 +4718,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_525",
-    "name": "1",
+    "name": "Anime #39",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(39).png",
     "format": "PNG",
@@ -4727,7 +4727,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_526",
-    "name": "1",
+    "name": "Anime #4",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(4).jpeg",
     "format": "JPEG",
@@ -4736,7 +4736,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_527",
-    "name": "1",
+    "name": "Anime #4",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(4).jpg",
     "format": "JPG",
@@ -4745,7 +4745,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_528",
-    "name": "1",
+    "name": "Anime #4",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(4).png",
     "format": "PNG",
@@ -4754,7 +4754,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_529",
-    "name": "1",
+    "name": "Anime #40",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(40).jpeg",
     "format": "JPEG",
@@ -4763,7 +4763,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_530",
-    "name": "1",
+    "name": "Anime #40",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(40).jpg",
     "format": "JPG",
@@ -4772,7 +4772,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_531",
-    "name": "1",
+    "name": "Anime #40",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(40).png",
     "format": "PNG",
@@ -4781,7 +4781,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_532",
-    "name": "1",
+    "name": "Anime #41",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(41).jpeg",
     "format": "JPEG",
@@ -4790,7 +4790,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_533",
-    "name": "1",
+    "name": "Anime #41",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(41).jpg",
     "format": "JPG",
@@ -4799,7 +4799,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_534",
-    "name": "1",
+    "name": "Anime #41",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(41).png",
     "format": "PNG",
@@ -4808,7 +4808,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_535",
-    "name": "1",
+    "name": "Anime #42",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(42).jpeg",
     "format": "JPEG",
@@ -4817,7 +4817,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_536",
-    "name": "1",
+    "name": "Anime #42",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(42).jpg",
     "format": "JPG",
@@ -4826,7 +4826,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_537",
-    "name": "1",
+    "name": "Anime #42",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(42).png",
     "format": "PNG",
@@ -4835,7 +4835,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_538",
-    "name": "1",
+    "name": "Anime #43",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(43).jpeg",
     "format": "JPEG",
@@ -4844,7 +4844,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_539",
-    "name": "1",
+    "name": "Anime #43",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(43).jpg",
     "format": "JPG",
@@ -4853,7 +4853,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_540",
-    "name": "1",
+    "name": "Anime #43",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(43).png",
     "format": "PNG",
@@ -4862,7 +4862,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_541",
-    "name": "1",
+    "name": "Anime #44",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(44).jpeg",
     "format": "JPEG",
@@ -4871,7 +4871,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_542",
-    "name": "1",
+    "name": "Anime #44",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(44).jpg",
     "format": "JPG",
@@ -4880,7 +4880,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_543",
-    "name": "1",
+    "name": "Anime #44",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(44).png",
     "format": "PNG",
@@ -4889,7 +4889,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_544",
-    "name": "1",
+    "name": "Anime #45",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(45).jpeg",
     "format": "JPEG",
@@ -4898,7 +4898,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_545",
-    "name": "1",
+    "name": "Anime #45",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(45).jpg",
     "format": "JPG",
@@ -4907,7 +4907,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_546",
-    "name": "1",
+    "name": "Anime #45",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(45).png",
     "format": "PNG",
@@ -4916,7 +4916,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_547",
-    "name": "1",
+    "name": "Anime #46",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(46).jpeg",
     "format": "JPEG",
@@ -4925,7 +4925,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_548",
-    "name": "1",
+    "name": "Anime #46",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(46).jpg",
     "format": "JPG",
@@ -4934,7 +4934,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_549",
-    "name": "1",
+    "name": "Anime #46",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(46).png",
     "format": "PNG",
@@ -4943,7 +4943,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_550",
-    "name": "1",
+    "name": "Anime #47",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(47).jpeg",
     "format": "JPEG",
@@ -4952,7 +4952,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_551",
-    "name": "1",
+    "name": "Anime #47",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(47).jpg",
     "format": "JPG",
@@ -4961,7 +4961,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_552",
-    "name": "1",
+    "name": "Anime #47",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(47).png",
     "format": "PNG",
@@ -4970,7 +4970,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_553",
-    "name": "1",
+    "name": "Anime #48",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(48).jpeg",
     "format": "JPEG",
@@ -4979,7 +4979,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_554",
-    "name": "1",
+    "name": "Anime #48",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(48).jpg",
     "format": "JPG",
@@ -4988,7 +4988,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_555",
-    "name": "1",
+    "name": "Anime #48",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(48).png",
     "format": "PNG",
@@ -4997,7 +4997,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_556",
-    "name": "1",
+    "name": "Anime #49",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(49).jpeg",
     "format": "JPEG",
@@ -5006,7 +5006,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_557",
-    "name": "1",
+    "name": "Anime #49",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(49).jpg",
     "format": "JPG",
@@ -5015,7 +5015,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_558",
-    "name": "1",
+    "name": "Anime #49",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(49).png",
     "format": "PNG",
@@ -5024,7 +5024,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_559",
-    "name": "1",
+    "name": "Anime #5",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(5).jpeg",
     "format": "JPEG",
@@ -5033,7 +5033,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_560",
-    "name": "1",
+    "name": "Anime #5",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(5).jpg",
     "format": "JPG",
@@ -5042,7 +5042,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_561",
-    "name": "1",
+    "name": "Anime #5",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(5).png",
     "format": "PNG",
@@ -5051,7 +5051,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_562",
-    "name": "1",
+    "name": "Anime #50",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(50).jpeg",
     "format": "JPEG",
@@ -5060,7 +5060,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_563",
-    "name": "1",
+    "name": "Anime #50",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(50).jpg",
     "format": "JPG",
@@ -5069,7 +5069,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_564",
-    "name": "1",
+    "name": "Anime #50",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(50).png",
     "format": "PNG",
@@ -5078,7 +5078,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_565",
-    "name": "1",
+    "name": "Anime #51",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(51).jpeg",
     "format": "JPEG",
@@ -5087,7 +5087,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_566",
-    "name": "1",
+    "name": "Anime #51",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(51).jpg",
     "format": "JPG",
@@ -5096,7 +5096,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_567",
-    "name": "1",
+    "name": "Anime #51",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(51).png",
     "format": "PNG",
@@ -5105,7 +5105,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_568",
-    "name": "1",
+    "name": "Anime #52",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(52).jpeg",
     "format": "JPEG",
@@ -5114,7 +5114,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_569",
-    "name": "1",
+    "name": "Anime #52",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(52).jpg",
     "format": "JPG",
@@ -5123,7 +5123,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_570",
-    "name": "1",
+    "name": "Anime #52",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(52).png",
     "format": "PNG",
@@ -5132,7 +5132,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_571",
-    "name": "1",
+    "name": "Anime #53",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(53).jpeg",
     "format": "JPEG",
@@ -5141,7 +5141,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_572",
-    "name": "1",
+    "name": "Anime #53",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(53).jpg",
     "format": "JPG",
@@ -5150,7 +5150,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_573",
-    "name": "1",
+    "name": "Anime #53",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(53).png",
     "format": "PNG",
@@ -5159,7 +5159,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_574",
-    "name": "1",
+    "name": "Anime #54",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(54).jpeg",
     "format": "JPEG",
@@ -5168,7 +5168,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_575",
-    "name": "1",
+    "name": "Anime #54",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(54).jpg",
     "format": "JPG",
@@ -5177,7 +5177,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_576",
-    "name": "1",
+    "name": "Anime #54",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(54).png",
     "format": "PNG",
@@ -5186,7 +5186,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_577",
-    "name": "1",
+    "name": "Anime #55",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(55).jpeg",
     "format": "JPEG",
@@ -5195,7 +5195,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_578",
-    "name": "1",
+    "name": "Anime #55",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(55).jpg",
     "format": "JPG",
@@ -5204,7 +5204,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_579",
-    "name": "1",
+    "name": "Anime #55",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(55).png",
     "format": "PNG",
@@ -5213,7 +5213,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_580",
-    "name": "1",
+    "name": "Anime #56",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(56).jpeg",
     "format": "JPEG",
@@ -5222,7 +5222,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_581",
-    "name": "1",
+    "name": "Anime #56",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(56).jpg",
     "format": "JPG",
@@ -5231,7 +5231,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_582",
-    "name": "1",
+    "name": "Anime #56",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(56).png",
     "format": "PNG",
@@ -5240,7 +5240,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_583",
-    "name": "1",
+    "name": "Anime #57",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(57).jpeg",
     "format": "JPEG",
@@ -5249,7 +5249,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_584",
-    "name": "1",
+    "name": "Anime #57",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(57).jpg",
     "format": "JPG",
@@ -5258,7 +5258,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_585",
-    "name": "1",
+    "name": "Anime #57",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(57).png",
     "format": "PNG",
@@ -5267,7 +5267,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_586",
-    "name": "1",
+    "name": "Anime #58",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(58).jpg",
     "format": "JPG",
@@ -5276,7 +5276,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_587",
-    "name": "1",
+    "name": "Anime #58",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(58).png",
     "format": "PNG",
@@ -5285,7 +5285,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_588",
-    "name": "1",
+    "name": "Anime #59",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(59).jpg",
     "format": "JPG",
@@ -5294,7 +5294,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_589",
-    "name": "1",
+    "name": "Anime #59",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(59).png",
     "format": "PNG",
@@ -5303,7 +5303,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_590",
-    "name": "1",
+    "name": "Anime #6",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(6).jpeg",
     "format": "JPEG",
@@ -5312,7 +5312,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_591",
-    "name": "1",
+    "name": "Anime #6",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(6).jpg",
     "format": "JPG",
@@ -5321,7 +5321,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_592",
-    "name": "1",
+    "name": "Anime #6",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(6).png",
     "format": "PNG",
@@ -5330,7 +5330,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_593",
-    "name": "1",
+    "name": "Anime #60",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(60).jpg",
     "format": "JPG",
@@ -5339,7 +5339,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_594",
-    "name": "1",
+    "name": "Anime #60",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(60).png",
     "format": "PNG",
@@ -5348,7 +5348,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_595",
-    "name": "1",
+    "name": "Anime #61",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(61).jpg",
     "format": "JPG",
@@ -5357,7 +5357,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_596",
-    "name": "1",
+    "name": "Anime #61",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(61).png",
     "format": "PNG",
@@ -5366,7 +5366,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_597",
-    "name": "1",
+    "name": "Anime #62",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(62).jpg",
     "format": "JPG",
@@ -5375,7 +5375,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_598",
-    "name": "1",
+    "name": "Anime #62",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(62).png",
     "format": "PNG",
@@ -5384,7 +5384,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_599",
-    "name": "1",
+    "name": "Anime #63",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(63).jpg",
     "format": "JPG",
@@ -5393,7 +5393,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_600",
-    "name": "1",
+    "name": "Anime #63",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(63).png",
     "format": "PNG",
@@ -5402,7 +5402,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_601",
-    "name": "1",
+    "name": "Anime #64",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(64).jpg",
     "format": "JPG",
@@ -5411,7 +5411,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_602",
-    "name": "1",
+    "name": "Anime #64",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(64).png",
     "format": "PNG",
@@ -5420,7 +5420,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_603",
-    "name": "1",
+    "name": "Anime #65",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(65).jpg",
     "format": "JPG",
@@ -5429,7 +5429,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_604",
-    "name": "1",
+    "name": "Anime #65",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(65).png",
     "format": "PNG",
@@ -5438,7 +5438,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_605",
-    "name": "1",
+    "name": "Anime #66",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(66).jpg",
     "format": "JPG",
@@ -5447,7 +5447,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_606",
-    "name": "1",
+    "name": "Anime #66",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(66).png",
     "format": "PNG",
@@ -5456,7 +5456,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_607",
-    "name": "1",
+    "name": "Anime #67",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(67).jpg",
     "format": "JPG",
@@ -5465,7 +5465,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_608",
-    "name": "1",
+    "name": "Anime #67",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(67).png",
     "format": "PNG",
@@ -5474,7 +5474,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_609",
-    "name": "1",
+    "name": "Anime #68",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(68).jpg",
     "format": "JPG",
@@ -5483,7 +5483,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_610",
-    "name": "1",
+    "name": "Anime #68",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(68).png",
     "format": "PNG",
@@ -5492,7 +5492,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_611",
-    "name": "1",
+    "name": "Anime #69",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(69).jpg",
     "format": "JPG",
@@ -5501,7 +5501,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_612",
-    "name": "1",
+    "name": "Anime #69",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(69).png",
     "format": "PNG",
@@ -5510,7 +5510,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_613",
-    "name": "1",
+    "name": "Anime #7",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(7).jpeg",
     "format": "JPEG",
@@ -5519,7 +5519,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_614",
-    "name": "1",
+    "name": "Anime #7",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(7).jpg",
     "format": "JPG",
@@ -5528,7 +5528,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_615",
-    "name": "1",
+    "name": "Anime #7",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(7).png",
     "format": "PNG",
@@ -5537,7 +5537,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_616",
-    "name": "1",
+    "name": "Anime #70",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(70).jpg",
     "format": "JPG",
@@ -5546,7 +5546,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_617",
-    "name": "1",
+    "name": "Anime #70",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(70).png",
     "format": "PNG",
@@ -5555,7 +5555,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_618",
-    "name": "1",
+    "name": "Anime #71",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(71).jpg",
     "format": "JPG",
@@ -5564,7 +5564,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_619",
-    "name": "1",
+    "name": "Anime #71",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(71).png",
     "format": "PNG",
@@ -5573,7 +5573,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_620",
-    "name": "1",
+    "name": "Anime #72",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(72).jpg",
     "format": "JPG",
@@ -5582,7 +5582,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_621",
-    "name": "1",
+    "name": "Anime #72",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(72).png",
     "format": "PNG",
@@ -5591,7 +5591,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_622",
-    "name": "1",
+    "name": "Anime #73",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(73).jpg",
     "format": "JPG",
@@ -5600,7 +5600,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_623",
-    "name": "1",
+    "name": "Anime #73",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(73).png",
     "format": "PNG",
@@ -5609,7 +5609,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_624",
-    "name": "1",
+    "name": "Anime #74",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(74).jpg",
     "format": "JPG",
@@ -5618,7 +5618,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_625",
-    "name": "1",
+    "name": "Anime #74",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(74).png",
     "format": "PNG",
@@ -5627,7 +5627,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_626",
-    "name": "1",
+    "name": "Anime #75",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(75).jpg",
     "format": "JPG",
@@ -5636,7 +5636,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_627",
-    "name": "1",
+    "name": "Anime #75",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(75).png",
     "format": "PNG",
@@ -5645,7 +5645,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_628",
-    "name": "1",
+    "name": "Anime #76",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(76).jpg",
     "format": "JPG",
@@ -5654,7 +5654,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_629",
-    "name": "1",
+    "name": "Anime #76",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(76).png",
     "format": "PNG",
@@ -5663,7 +5663,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_630",
-    "name": "1",
+    "name": "Anime #77",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(77).jpg",
     "format": "JPG",
@@ -5672,7 +5672,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_631",
-    "name": "1",
+    "name": "Anime #77",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(77).png",
     "format": "PNG",
@@ -5681,7 +5681,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_632",
-    "name": "1",
+    "name": "Anime #78",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(78).jpg",
     "format": "JPG",
@@ -5690,7 +5690,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_633",
-    "name": "1",
+    "name": "Anime #78",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(78).png",
     "format": "PNG",
@@ -5699,7 +5699,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_634",
-    "name": "1",
+    "name": "Anime #79",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(79).jpg",
     "format": "JPG",
@@ -5708,7 +5708,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_635",
-    "name": "1",
+    "name": "Anime #79",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(79).png",
     "format": "PNG",
@@ -5717,7 +5717,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_636",
-    "name": "1",
+    "name": "Anime #8",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(8).jpeg",
     "format": "JPEG",
@@ -5726,7 +5726,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_637",
-    "name": "1",
+    "name": "Anime #8",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(8).jpg",
     "format": "JPG",
@@ -5735,7 +5735,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_638",
-    "name": "1",
+    "name": "Anime #8",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(8).png",
     "format": "PNG",
@@ -5744,7 +5744,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_639",
-    "name": "1",
+    "name": "Anime #80",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(80).jpg",
     "format": "JPG",
@@ -5753,7 +5753,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_640",
-    "name": "1",
+    "name": "Anime #80",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(80).png",
     "format": "PNG",
@@ -5762,7 +5762,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_641",
-    "name": "1",
+    "name": "Anime #81",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(81).jpg",
     "format": "JPG",
@@ -5771,7 +5771,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_642",
-    "name": "1",
+    "name": "Anime #81",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(81).png",
     "format": "PNG",
@@ -5780,7 +5780,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_643",
-    "name": "1",
+    "name": "Anime #82",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(82).jpg",
     "format": "JPG",
@@ -5789,7 +5789,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_644",
-    "name": "1",
+    "name": "Anime #82",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(82).png",
     "format": "PNG",
@@ -5798,7 +5798,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_645",
-    "name": "1",
+    "name": "Anime #83",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(83).jpg",
     "format": "JPG",
@@ -5807,7 +5807,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_646",
-    "name": "1",
+    "name": "Anime #83",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(83).png",
     "format": "PNG",
@@ -5816,7 +5816,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_647",
-    "name": "1",
+    "name": "Anime #84",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(84).jpg",
     "format": "JPG",
@@ -5825,7 +5825,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_648",
-    "name": "1",
+    "name": "Anime #84",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(84).png",
     "format": "PNG",
@@ -5834,7 +5834,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_649",
-    "name": "1",
+    "name": "Anime #85",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(85).jpg",
     "format": "JPG",
@@ -5843,7 +5843,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_650",
-    "name": "1",
+    "name": "Anime #85",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(85).png",
     "format": "PNG",
@@ -5852,7 +5852,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_651",
-    "name": "1",
+    "name": "Anime #86",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(86).jpg",
     "format": "JPG",
@@ -5861,7 +5861,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_652",
-    "name": "1",
+    "name": "Anime #86",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(86).png",
     "format": "PNG",
@@ -5870,7 +5870,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_653",
-    "name": "1",
+    "name": "Anime #87",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(87).jpg",
     "format": "JPG",
@@ -5879,7 +5879,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_654",
-    "name": "1",
+    "name": "Anime #87",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(87).png",
     "format": "PNG",
@@ -5888,7 +5888,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_655",
-    "name": "1",
+    "name": "Anime #88",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(88).jpg",
     "format": "JPG",
@@ -5897,7 +5897,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_656",
-    "name": "1",
+    "name": "Anime #88",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(88).png",
     "format": "PNG",
@@ -5906,7 +5906,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_657",
-    "name": "1",
+    "name": "Anime #89",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(89).jpg",
     "format": "JPG",
@@ -5915,7 +5915,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_658",
-    "name": "1",
+    "name": "Anime #89",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(89).png",
     "format": "PNG",
@@ -5924,7 +5924,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_659",
-    "name": "1",
+    "name": "Anime #9",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(9).jpeg",
     "format": "JPEG",
@@ -5933,7 +5933,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_660",
-    "name": "1",
+    "name": "Anime #9",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(9).jpg",
     "format": "JPG",
@@ -5942,7 +5942,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_661",
-    "name": "1",
+    "name": "Anime #9",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(9).png",
     "format": "PNG",
@@ -5951,7 +5951,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_662",
-    "name": "1",
+    "name": "Anime #90",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(90).jpg",
     "format": "JPG",
@@ -5960,7 +5960,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_663",
-    "name": "1",
+    "name": "Anime #90",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(90).png",
     "format": "PNG",
@@ -5969,7 +5969,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_664",
-    "name": "1",
+    "name": "Anime #91",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(91).jpg",
     "format": "JPG",
@@ -5978,7 +5978,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_665",
-    "name": "1",
+    "name": "Anime #91",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(91).png",
     "format": "PNG",
@@ -5987,7 +5987,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_666",
-    "name": "1",
+    "name": "Anime #92",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(92).jpg",
     "format": "JPG",
@@ -5996,7 +5996,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_667",
-    "name": "1",
+    "name": "Anime #92",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(92).png",
     "format": "PNG",
@@ -6005,7 +6005,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_668",
-    "name": "1",
+    "name": "Anime #93",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(93).jpg",
     "format": "JPG",
@@ -6014,7 +6014,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_669",
-    "name": "1",
+    "name": "Anime #93",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(93).png",
     "format": "PNG",
@@ -6023,7 +6023,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_670",
-    "name": "1",
+    "name": "Anime #94",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(94).jpg",
     "format": "JPG",
@@ -6032,7 +6032,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_671",
-    "name": "1",
+    "name": "Anime #94",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(94).png",
     "format": "PNG",
@@ -6041,7 +6041,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_672",
-    "name": "1",
+    "name": "Anime #95",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(95).jpg",
     "format": "JPG",
@@ -6050,7 +6050,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_673",
-    "name": "1",
+    "name": "Anime #95",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(95).png",
     "format": "PNG",
@@ -6059,7 +6059,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_674",
-    "name": "1",
+    "name": "Anime #96",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(96).jpg",
     "format": "JPG",
@@ -6068,7 +6068,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_675",
-    "name": "1",
+    "name": "Anime #96",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(96).png",
     "format": "PNG",
@@ -6077,7 +6077,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_676",
-    "name": "1",
+    "name": "Anime #97",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(97).jpg",
     "format": "JPG",
@@ -6086,7 +6086,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_677",
-    "name": "1",
+    "name": "Anime #97",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(97).png",
     "format": "PNG",
@@ -6095,7 +6095,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_678",
-    "name": "1",
+    "name": "Anime #98",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(98).jpg",
     "format": "JPG",
@@ -6104,7 +6104,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_679",
-    "name": "1",
+    "name": "Anime #98",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(98).png",
     "format": "PNG",
@@ -6113,7 +6113,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_680",
-    "name": "1",
+    "name": "Anime #99",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(99).jpg",
     "format": "JPG",
@@ -6122,7 +6122,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_681",
-    "name": "1",
+    "name": "Anime #99",
     "category": "Anime Wallpapers",
     "url": "https://wondermayank.github.io/wallpaper/Anime-Wallpapers-main/1%20(99).png",
     "format": "PNG",
@@ -6131,7 +6131,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_682",
-    "name": "1",
+    "name": "Anime Background #1",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(1).png",
     "format": "PNG",
@@ -6140,7 +6140,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_683",
-    "name": "1",
+    "name": "Anime Background #10",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(10).jpg",
     "format": "JPG",
@@ -6149,7 +6149,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_684",
-    "name": "1",
+    "name": "Anime Background #10",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(10).png",
     "format": "PNG",
@@ -6158,7 +6158,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_685",
-    "name": "1",
+    "name": "Anime Background #100",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(100).jpg",
     "format": "JPG",
@@ -6167,7 +6167,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_686",
-    "name": "1",
+    "name": "Anime Background #100",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(100).png",
     "format": "PNG",
@@ -6176,7 +6176,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_687",
-    "name": "1",
+    "name": "Anime Background #101",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(101).jpg",
     "format": "JPG",
@@ -6185,7 +6185,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_688",
-    "name": "1",
+    "name": "Anime Background #101",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(101).png",
     "format": "PNG",
@@ -6194,7 +6194,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_689",
-    "name": "1",
+    "name": "Anime Background #102",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(102).jpg",
     "format": "JPG",
@@ -6203,7 +6203,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_690",
-    "name": "1",
+    "name": "Anime Background #102",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(102).png",
     "format": "PNG",
@@ -6212,7 +6212,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_691",
-    "name": "1",
+    "name": "Anime Background #103",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(103).jpg",
     "format": "JPG",
@@ -6221,7 +6221,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_692",
-    "name": "1",
+    "name": "Anime Background #103",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(103).png",
     "format": "PNG",
@@ -6230,7 +6230,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_693",
-    "name": "1",
+    "name": "Anime Background #104",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(104).jpg",
     "format": "JPG",
@@ -6239,7 +6239,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_694",
-    "name": "1",
+    "name": "Anime Background #104",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(104).png",
     "format": "PNG",
@@ -6248,7 +6248,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_695",
-    "name": "1",
+    "name": "Anime Background #105",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(105).jpg",
     "format": "JPG",
@@ -6257,7 +6257,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_696",
-    "name": "1",
+    "name": "Anime Background #105",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(105).png",
     "format": "PNG",
@@ -6266,7 +6266,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_697",
-    "name": "1",
+    "name": "Anime Background #106",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(106).jpg",
     "format": "JPG",
@@ -6275,7 +6275,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_698",
-    "name": "1",
+    "name": "Anime Background #106",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(106).png",
     "format": "PNG",
@@ -6284,7 +6284,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_699",
-    "name": "1",
+    "name": "Anime Background #107",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(107).jpg",
     "format": "JPG",
@@ -6293,7 +6293,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_700",
-    "name": "1",
+    "name": "Anime Background #107",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(107).png",
     "format": "PNG",
@@ -6302,7 +6302,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_701",
-    "name": "1",
+    "name": "Anime Background #108",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(108).jpg",
     "format": "JPG",
@@ -6311,7 +6311,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_702",
-    "name": "1",
+    "name": "Anime Background #108",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(108).png",
     "format": "PNG",
@@ -6320,7 +6320,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_703",
-    "name": "1",
+    "name": "Anime Background #109",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(109).jpg",
     "format": "JPG",
@@ -6329,7 +6329,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_704",
-    "name": "1",
+    "name": "Anime Background #109",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(109).png",
     "format": "PNG",
@@ -6338,7 +6338,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_705",
-    "name": "1",
+    "name": "Anime Background #11",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(11).jpg",
     "format": "JPG",
@@ -6347,7 +6347,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_706",
-    "name": "1",
+    "name": "Anime Background #11",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(11).png",
     "format": "PNG",
@@ -6356,7 +6356,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_707",
-    "name": "1",
+    "name": "Anime Background #110",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(110).jpg",
     "format": "JPG",
@@ -6365,7 +6365,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_708",
-    "name": "1",
+    "name": "Anime Background #110",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(110).png",
     "format": "PNG",
@@ -6374,7 +6374,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_709",
-    "name": "1",
+    "name": "Anime Background #111",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(111).jpg",
     "format": "JPG",
@@ -6383,7 +6383,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_710",
-    "name": "1",
+    "name": "Anime Background #111",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(111).png",
     "format": "PNG",
@@ -6392,7 +6392,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_711",
-    "name": "1",
+    "name": "Anime Background #112",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(112).jpg",
     "format": "JPG",
@@ -6401,7 +6401,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_712",
-    "name": "1",
+    "name": "Anime Background #112",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(112).png",
     "format": "PNG",
@@ -6410,7 +6410,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_713",
-    "name": "1",
+    "name": "Anime Background #113",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(113).jpg",
     "format": "JPG",
@@ -6419,7 +6419,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_714",
-    "name": "1",
+    "name": "Anime Background #113",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(113).png",
     "format": "PNG",
@@ -6428,7 +6428,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_715",
-    "name": "1",
+    "name": "Anime Background #114",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(114).jpg",
     "format": "JPG",
@@ -6437,7 +6437,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_716",
-    "name": "1",
+    "name": "Anime Background #114",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(114).png",
     "format": "PNG",
@@ -6446,7 +6446,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_717",
-    "name": "1",
+    "name": "Anime Background #115",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(115).jpg",
     "format": "JPG",
@@ -6455,7 +6455,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_718",
-    "name": "1",
+    "name": "Anime Background #115",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(115).png",
     "format": "PNG",
@@ -6464,7 +6464,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_719",
-    "name": "1",
+    "name": "Anime Background #116",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(116).jpg",
     "format": "JPG",
@@ -6473,7 +6473,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_720",
-    "name": "1",
+    "name": "Anime Background #116",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(116).png",
     "format": "PNG",
@@ -6482,7 +6482,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_721",
-    "name": "1",
+    "name": "Anime Background #117",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(117).jpg",
     "format": "JPG",
@@ -6491,7 +6491,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_722",
-    "name": "1",
+    "name": "Anime Background #117",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(117).png",
     "format": "PNG",
@@ -6500,7 +6500,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_723",
-    "name": "1",
+    "name": "Anime Background #118",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(118).jpg",
     "format": "JPG",
@@ -6509,7 +6509,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_724",
-    "name": "1",
+    "name": "Anime Background #118",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(118).png",
     "format": "PNG",
@@ -6518,7 +6518,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_725",
-    "name": "1",
+    "name": "Anime Background #119",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(119).jpg",
     "format": "JPG",
@@ -6527,7 +6527,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_726",
-    "name": "1",
+    "name": "Anime Background #119",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(119).png",
     "format": "PNG",
@@ -6536,7 +6536,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_727",
-    "name": "1",
+    "name": "Anime Background #12",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(12).jpg",
     "format": "JPG",
@@ -6545,7 +6545,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_728",
-    "name": "1",
+    "name": "Anime Background #12",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(12).png",
     "format": "PNG",
@@ -6554,7 +6554,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_729",
-    "name": "1",
+    "name": "Anime Background #120",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(120).jpg",
     "format": "JPG",
@@ -6563,7 +6563,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_730",
-    "name": "1",
+    "name": "Anime Background #120",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(120).png",
     "format": "PNG",
@@ -6572,7 +6572,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_731",
-    "name": "1",
+    "name": "Anime Background #121",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(121).jpg",
     "format": "JPG",
@@ -6581,7 +6581,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_732",
-    "name": "1",
+    "name": "Anime Background #121",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(121).png",
     "format": "PNG",
@@ -6590,7 +6590,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_733",
-    "name": "1",
+    "name": "Anime Background #122",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(122).jpg",
     "format": "JPG",
@@ -6599,7 +6599,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_734",
-    "name": "1",
+    "name": "Anime Background #122",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(122).png",
     "format": "PNG",
@@ -6608,7 +6608,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_735",
-    "name": "1",
+    "name": "Anime Background #123",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(123).jpg",
     "format": "JPG",
@@ -6617,7 +6617,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_736",
-    "name": "1",
+    "name": "Anime Background #123",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(123).png",
     "format": "PNG",
@@ -6626,7 +6626,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_737",
-    "name": "1",
+    "name": "Anime Background #124",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(124).jpg",
     "format": "JPG",
@@ -6635,7 +6635,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_738",
-    "name": "1",
+    "name": "Anime Background #124",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(124).png",
     "format": "PNG",
@@ -6644,7 +6644,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_739",
-    "name": "1",
+    "name": "Anime Background #125",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(125).jpg",
     "format": "JPG",
@@ -6653,7 +6653,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_740",
-    "name": "1",
+    "name": "Anime Background #125",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(125).png",
     "format": "PNG",
@@ -6662,7 +6662,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_741",
-    "name": "1",
+    "name": "Anime Background #126",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(126).jpg",
     "format": "JPG",
@@ -6671,7 +6671,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_742",
-    "name": "1",
+    "name": "Anime Background #126",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(126).png",
     "format": "PNG",
@@ -6680,7 +6680,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_743",
-    "name": "1",
+    "name": "Anime Background #127",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(127).jpg",
     "format": "JPG",
@@ -6689,7 +6689,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_744",
-    "name": "1",
+    "name": "Anime Background #127",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(127).png",
     "format": "PNG",
@@ -6698,7 +6698,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_745",
-    "name": "1",
+    "name": "Anime Background #128",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(128).jpg",
     "format": "JPG",
@@ -6707,7 +6707,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_746",
-    "name": "1",
+    "name": "Anime Background #128",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(128).png",
     "format": "PNG",
@@ -6716,7 +6716,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_747",
-    "name": "1",
+    "name": "Anime Background #129",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(129).jpg",
     "format": "JPG",
@@ -6725,7 +6725,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_748",
-    "name": "1",
+    "name": "Anime Background #129",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(129).png",
     "format": "PNG",
@@ -6734,7 +6734,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_749",
-    "name": "1",
+    "name": "Anime Background #13",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(13).jpg",
     "format": "JPG",
@@ -6743,7 +6743,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_750",
-    "name": "1",
+    "name": "Anime Background #13",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(13).png",
     "format": "PNG",
@@ -6752,7 +6752,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_751",
-    "name": "1",
+    "name": "Anime Background #130",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(130).jpg",
     "format": "JPG",
@@ -6761,7 +6761,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_752",
-    "name": "1",
+    "name": "Anime Background #130",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(130).png",
     "format": "PNG",
@@ -6770,7 +6770,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_753",
-    "name": "1",
+    "name": "Anime Background #131",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(131).jpg",
     "format": "JPG",
@@ -6779,7 +6779,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_754",
-    "name": "1",
+    "name": "Anime Background #131",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(131).png",
     "format": "PNG",
@@ -6788,7 +6788,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_755",
-    "name": "1",
+    "name": "Anime Background #132",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(132).jpg",
     "format": "JPG",
@@ -6797,7 +6797,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_756",
-    "name": "1",
+    "name": "Anime Background #132",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(132).png",
     "format": "PNG",
@@ -6806,7 +6806,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_757",
-    "name": "1",
+    "name": "Anime Background #133",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(133).jpg",
     "format": "JPG",
@@ -6815,7 +6815,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_758",
-    "name": "1",
+    "name": "Anime Background #133",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(133).png",
     "format": "PNG",
@@ -6824,7 +6824,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_759",
-    "name": "1",
+    "name": "Anime Background #134",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(134).jpg",
     "format": "JPG",
@@ -6833,7 +6833,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_760",
-    "name": "1",
+    "name": "Anime Background #134",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(134).png",
     "format": "PNG",
@@ -6842,7 +6842,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_761",
-    "name": "1",
+    "name": "Anime Background #135",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(135).jpg",
     "format": "JPG",
@@ -6851,7 +6851,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_762",
-    "name": "1",
+    "name": "Anime Background #135",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(135).png",
     "format": "PNG",
@@ -6860,7 +6860,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_763",
-    "name": "1",
+    "name": "Anime Background #136",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(136).jpg",
     "format": "JPG",
@@ -6869,7 +6869,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_764",
-    "name": "1",
+    "name": "Anime Background #136",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(136).png",
     "format": "PNG",
@@ -6878,7 +6878,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_765",
-    "name": "1",
+    "name": "Anime Background #137",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(137).jpg",
     "format": "JPG",
@@ -6887,7 +6887,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_766",
-    "name": "1",
+    "name": "Anime Background #137",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(137).png",
     "format": "PNG",
@@ -6896,7 +6896,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_767",
-    "name": "1",
+    "name": "Anime Background #138",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(138).jpg",
     "format": "JPG",
@@ -6905,7 +6905,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_768",
-    "name": "1",
+    "name": "Anime Background #138",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(138).png",
     "format": "PNG",
@@ -6914,7 +6914,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_769",
-    "name": "1",
+    "name": "Anime Background #139",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(139).jpg",
     "format": "JPG",
@@ -6923,7 +6923,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_770",
-    "name": "1",
+    "name": "Anime Background #139",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(139).png",
     "format": "PNG",
@@ -6932,7 +6932,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_771",
-    "name": "1",
+    "name": "Anime Background #14",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(14).jpg",
     "format": "JPG",
@@ -6941,7 +6941,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_772",
-    "name": "1",
+    "name": "Anime Background #14",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(14).png",
     "format": "PNG",
@@ -6950,7 +6950,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_773",
-    "name": "1",
+    "name": "Anime Background #140",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(140).jpg",
     "format": "JPG",
@@ -6959,7 +6959,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_774",
-    "name": "1",
+    "name": "Anime Background #140",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(140).png",
     "format": "PNG",
@@ -6968,7 +6968,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_775",
-    "name": "1",
+    "name": "Anime Background #141",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(141).jpg",
     "format": "JPG",
@@ -6977,7 +6977,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_776",
-    "name": "1",
+    "name": "Anime Background #141",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(141).png",
     "format": "PNG",
@@ -6986,7 +6986,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_777",
-    "name": "1",
+    "name": "Anime Background #142",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(142).jpg",
     "format": "JPG",
@@ -6995,7 +6995,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_778",
-    "name": "1",
+    "name": "Anime Background #142",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(142).png",
     "format": "PNG",
@@ -7004,7 +7004,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_779",
-    "name": "1",
+    "name": "Anime Background #143",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(143).jpg",
     "format": "JPG",
@@ -7013,7 +7013,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_780",
-    "name": "1",
+    "name": "Anime Background #143",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(143).png",
     "format": "PNG",
@@ -7022,7 +7022,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_781",
-    "name": "1",
+    "name": "Anime Background #144",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(144).jpg",
     "format": "JPG",
@@ -7031,7 +7031,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_782",
-    "name": "1",
+    "name": "Anime Background #144",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(144).png",
     "format": "PNG",
@@ -7040,7 +7040,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_783",
-    "name": "1",
+    "name": "Anime Background #145",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(145).jpg",
     "format": "JPG",
@@ -7049,7 +7049,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_784",
-    "name": "1",
+    "name": "Anime Background #145",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(145).png",
     "format": "PNG",
@@ -7058,7 +7058,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_785",
-    "name": "1",
+    "name": "Anime Background #146",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(146).jpg",
     "format": "JPG",
@@ -7067,7 +7067,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_786",
-    "name": "1",
+    "name": "Anime Background #146",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(146).png",
     "format": "PNG",
@@ -7076,7 +7076,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_787",
-    "name": "1",
+    "name": "Anime Background #147",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(147).jpg",
     "format": "JPG",
@@ -7085,7 +7085,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_788",
-    "name": "1",
+    "name": "Anime Background #147",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(147).png",
     "format": "PNG",
@@ -7094,7 +7094,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_789",
-    "name": "1",
+    "name": "Anime Background #148",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(148).jpg",
     "format": "JPG",
@@ -7103,7 +7103,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_790",
-    "name": "1",
+    "name": "Anime Background #148",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(148).png",
     "format": "PNG",
@@ -7112,7 +7112,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_791",
-    "name": "1",
+    "name": "Anime Background #149",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(149).jpg",
     "format": "JPG",
@@ -7121,7 +7121,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_792",
-    "name": "1",
+    "name": "Anime Background #149",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(149).png",
     "format": "PNG",
@@ -7130,7 +7130,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_793",
-    "name": "1",
+    "name": "Anime Background #15",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(15).jpg",
     "format": "JPG",
@@ -7139,7 +7139,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_794",
-    "name": "1",
+    "name": "Anime Background #15",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(15).png",
     "format": "PNG",
@@ -7148,7 +7148,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_795",
-    "name": "1",
+    "name": "Anime Background #150",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(150).jpg",
     "format": "JPG",
@@ -7157,7 +7157,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_796",
-    "name": "1",
+    "name": "Anime Background #150",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(150).png",
     "format": "PNG",
@@ -7166,7 +7166,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_797",
-    "name": "1",
+    "name": "Anime Background #151",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(151).jpg",
     "format": "JPG",
@@ -7175,7 +7175,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_798",
-    "name": "1",
+    "name": "Anime Background #151",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(151).png",
     "format": "PNG",
@@ -7184,7 +7184,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_799",
-    "name": "1",
+    "name": "Anime Background #152",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(152).jpg",
     "format": "JPG",
@@ -7193,7 +7193,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_800",
-    "name": "1",
+    "name": "Anime Background #152",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(152).png",
     "format": "PNG",
@@ -7202,7 +7202,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_801",
-    "name": "1",
+    "name": "Anime Background #153",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(153).jpg",
     "format": "JPG",
@@ -7211,7 +7211,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_802",
-    "name": "1",
+    "name": "Anime Background #153",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(153).png",
     "format": "PNG",
@@ -7220,7 +7220,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_803",
-    "name": "1",
+    "name": "Anime Background #154",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(154).jpg",
     "format": "JPG",
@@ -7229,7 +7229,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_804",
-    "name": "1",
+    "name": "Anime Background #154",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(154).png",
     "format": "PNG",
@@ -7238,7 +7238,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_805",
-    "name": "1",
+    "name": "Anime Background #155",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(155).jpg",
     "format": "JPG",
@@ -7247,7 +7247,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_806",
-    "name": "1",
+    "name": "Anime Background #155",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(155).png",
     "format": "PNG",
@@ -7256,7 +7256,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_807",
-    "name": "1",
+    "name": "Anime Background #156",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(156).jpg",
     "format": "JPG",
@@ -7265,7 +7265,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_808",
-    "name": "1",
+    "name": "Anime Background #156",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(156).png",
     "format": "PNG",
@@ -7274,7 +7274,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_809",
-    "name": "1",
+    "name": "Anime Background #157",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(157).jpg",
     "format": "JPG",
@@ -7283,7 +7283,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_810",
-    "name": "1",
+    "name": "Anime Background #157",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(157).png",
     "format": "PNG",
@@ -7292,7 +7292,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_811",
-    "name": "1",
+    "name": "Anime Background #158",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(158).jpg",
     "format": "JPG",
@@ -7301,7 +7301,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_812",
-    "name": "1",
+    "name": "Anime Background #158",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(158).png",
     "format": "PNG",
@@ -7310,7 +7310,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_813",
-    "name": "1",
+    "name": "Anime Background #159",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(159).jpg",
     "format": "JPG",
@@ -7319,7 +7319,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_814",
-    "name": "1",
+    "name": "Anime Background #159",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(159).png",
     "format": "PNG",
@@ -7328,7 +7328,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_815",
-    "name": "1",
+    "name": "Anime Background #16",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(16).jpg",
     "format": "JPG",
@@ -7337,7 +7337,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_816",
-    "name": "1",
+    "name": "Anime Background #16",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(16).png",
     "format": "PNG",
@@ -7346,7 +7346,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_817",
-    "name": "1",
+    "name": "Anime Background #160",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(160).jpg",
     "format": "JPG",
@@ -7355,7 +7355,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_818",
-    "name": "1",
+    "name": "Anime Background #160",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(160).png",
     "format": "PNG",
@@ -7364,7 +7364,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_819",
-    "name": "1",
+    "name": "Anime Background #161",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(161).jpg",
     "format": "JPG",
@@ -7373,7 +7373,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_820",
-    "name": "1",
+    "name": "Anime Background #161",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(161).png",
     "format": "PNG",
@@ -7382,7 +7382,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_821",
-    "name": "1",
+    "name": "Anime Background #162",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(162).jpg",
     "format": "JPG",
@@ -7391,7 +7391,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_822",
-    "name": "1",
+    "name": "Anime Background #162",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(162).png",
     "format": "PNG",
@@ -7400,7 +7400,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_823",
-    "name": "1",
+    "name": "Anime Background #163",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(163).jpg",
     "format": "JPG",
@@ -7409,7 +7409,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_824",
-    "name": "1",
+    "name": "Anime Background #163",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(163).png",
     "format": "PNG",
@@ -7418,7 +7418,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_825",
-    "name": "1",
+    "name": "Anime Background #164",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(164).jpg",
     "format": "JPG",
@@ -7427,7 +7427,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_826",
-    "name": "1",
+    "name": "Anime Background #164",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(164).png",
     "format": "PNG",
@@ -7436,7 +7436,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_827",
-    "name": "1",
+    "name": "Anime Background #165",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(165).jpg",
     "format": "JPG",
@@ -7445,7 +7445,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_828",
-    "name": "1",
+    "name": "Anime Background #165",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(165).png",
     "format": "PNG",
@@ -7454,7 +7454,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_829",
-    "name": "1",
+    "name": "Anime Background #166",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(166).jpg",
     "format": "JPG",
@@ -7463,7 +7463,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_830",
-    "name": "1",
+    "name": "Anime Background #166",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(166).png",
     "format": "PNG",
@@ -7472,7 +7472,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_831",
-    "name": "1",
+    "name": "Anime Background #167",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(167).jpg",
     "format": "JPG",
@@ -7481,7 +7481,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_832",
-    "name": "1",
+    "name": "Anime Background #167",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(167).png",
     "format": "PNG",
@@ -7490,7 +7490,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_833",
-    "name": "1",
+    "name": "Anime Background #168",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(168).jpg",
     "format": "JPG",
@@ -7499,7 +7499,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_834",
-    "name": "1",
+    "name": "Anime Background #168",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(168).png",
     "format": "PNG",
@@ -7508,7 +7508,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_835",
-    "name": "1",
+    "name": "Anime Background #169",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(169).jpg",
     "format": "JPG",
@@ -7517,7 +7517,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_836",
-    "name": "1",
+    "name": "Anime Background #169",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(169).png",
     "format": "PNG",
@@ -7526,7 +7526,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_837",
-    "name": "1",
+    "name": "Anime Background #17",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(17).jpg",
     "format": "JPG",
@@ -7535,7 +7535,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_838",
-    "name": "1",
+    "name": "Anime Background #17",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(17).png",
     "format": "PNG",
@@ -7544,7 +7544,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_839",
-    "name": "1",
+    "name": "Anime Background #170",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(170).jpg",
     "format": "JPG",
@@ -7553,7 +7553,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_840",
-    "name": "1",
+    "name": "Anime Background #170",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(170).png",
     "format": "PNG",
@@ -7562,7 +7562,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_841",
-    "name": "1",
+    "name": "Anime Background #171",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(171).jpg",
     "format": "JPG",
@@ -7571,7 +7571,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_842",
-    "name": "1",
+    "name": "Anime Background #171",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(171).png",
     "format": "PNG",
@@ -7580,7 +7580,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_843",
-    "name": "1",
+    "name": "Anime Background #172",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(172).jpg",
     "format": "JPG",
@@ -7589,7 +7589,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_844",
-    "name": "1",
+    "name": "Anime Background #172",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(172).png",
     "format": "PNG",
@@ -7598,7 +7598,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_845",
-    "name": "1",
+    "name": "Anime Background #173",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(173).jpg",
     "format": "JPG",
@@ -7607,7 +7607,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_846",
-    "name": "1",
+    "name": "Anime Background #173",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(173).png",
     "format": "PNG",
@@ -7616,7 +7616,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_847",
-    "name": "1",
+    "name": "Anime Background #174",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(174).jpg",
     "format": "JPG",
@@ -7625,7 +7625,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_848",
-    "name": "1",
+    "name": "Anime Background #174",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(174).png",
     "format": "PNG",
@@ -7634,7 +7634,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_849",
-    "name": "1",
+    "name": "Anime Background #175",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(175).jpg",
     "format": "JPG",
@@ -7643,7 +7643,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_850",
-    "name": "1",
+    "name": "Anime Background #175",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(175).png",
     "format": "PNG",
@@ -7652,7 +7652,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_851",
-    "name": "1",
+    "name": "Anime Background #176",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(176).jpg",
     "format": "JPG",
@@ -7661,7 +7661,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_852",
-    "name": "1",
+    "name": "Anime Background #176",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(176).png",
     "format": "PNG",
@@ -7670,7 +7670,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_853",
-    "name": "1",
+    "name": "Anime Background #177",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(177).jpg",
     "format": "JPG",
@@ -7679,7 +7679,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_854",
-    "name": "1",
+    "name": "Anime Background #177",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(177).png",
     "format": "PNG",
@@ -7688,7 +7688,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_855",
-    "name": "1",
+    "name": "Anime Background #178",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(178).jpg",
     "format": "JPG",
@@ -7697,7 +7697,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_856",
-    "name": "1",
+    "name": "Anime Background #178",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(178).png",
     "format": "PNG",
@@ -7706,7 +7706,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_857",
-    "name": "1",
+    "name": "Anime Background #179",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(179).jpg",
     "format": "JPG",
@@ -7715,7 +7715,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_858",
-    "name": "1",
+    "name": "Anime Background #179",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(179).png",
     "format": "PNG",
@@ -7724,7 +7724,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_859",
-    "name": "1",
+    "name": "Anime Background #18",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(18).jpg",
     "format": "JPG",
@@ -7733,7 +7733,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_860",
-    "name": "1",
+    "name": "Anime Background #18",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(18).png",
     "format": "PNG",
@@ -7742,7 +7742,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_861",
-    "name": "1",
+    "name": "Anime Background #180",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(180).jpg",
     "format": "JPG",
@@ -7751,7 +7751,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_862",
-    "name": "1",
+    "name": "Anime Background #181",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(181).jpg",
     "format": "JPG",
@@ -7760,7 +7760,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_863",
-    "name": "1",
+    "name": "Anime Background #181",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(181).png",
     "format": "PNG",
@@ -7769,7 +7769,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_864",
-    "name": "1",
+    "name": "Anime Background #182",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(182).jpg",
     "format": "JPG",
@@ -7778,7 +7778,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_865",
-    "name": "1",
+    "name": "Anime Background #183",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(183).jpg",
     "format": "JPG",
@@ -7787,7 +7787,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_866",
-    "name": "1",
+    "name": "Anime Background #184",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(184).jpg",
     "format": "JPG",
@@ -7796,7 +7796,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_867",
-    "name": "1",
+    "name": "Anime Background #185",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(185).jpg",
     "format": "JPG",
@@ -7805,7 +7805,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_868",
-    "name": "1",
+    "name": "Anime Background #186",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(186).jpg",
     "format": "JPG",
@@ -7814,7 +7814,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_869",
-    "name": "1",
+    "name": "Anime Background #187",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(187).jpg",
     "format": "JPG",
@@ -7823,7 +7823,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_870",
-    "name": "1",
+    "name": "Anime Background #188",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(188).jpg",
     "format": "JPG",
@@ -7832,7 +7832,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_871",
-    "name": "1",
+    "name": "Anime Background #189",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(189).jpg",
     "format": "JPG",
@@ -7841,7 +7841,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_872",
-    "name": "1",
+    "name": "Anime Background #19",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(19).jpg",
     "format": "JPG",
@@ -7850,7 +7850,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_873",
-    "name": "1",
+    "name": "Anime Background #19",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(19).png",
     "format": "PNG",
@@ -7859,7 +7859,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_874",
-    "name": "1",
+    "name": "Anime Background #190",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(190).jpg",
     "format": "JPG",
@@ -7868,7 +7868,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_875",
-    "name": "1",
+    "name": "Anime Background #191",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(191).jpg",
     "format": "JPG",
@@ -7877,7 +7877,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_876",
-    "name": "1",
+    "name": "Anime Background #192",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(192).jpg",
     "format": "JPG",
@@ -7886,7 +7886,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_877",
-    "name": "1",
+    "name": "Anime Background #193",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(193).jpg",
     "format": "JPG",
@@ -7895,7 +7895,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_878",
-    "name": "1",
+    "name": "Anime Background #194",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(194).jpg",
     "format": "JPG",
@@ -7904,7 +7904,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_879",
-    "name": "1",
+    "name": "Anime Background #195",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(195).jpg",
     "format": "JPG",
@@ -7913,7 +7913,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_880",
-    "name": "1",
+    "name": "Anime Background #196",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(196).jpg",
     "format": "JPG",
@@ -7922,7 +7922,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_881",
-    "name": "1",
+    "name": "Anime Background #197",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(197).jpg",
     "format": "JPG",
@@ -7931,7 +7931,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_882",
-    "name": "1",
+    "name": "Anime Background #198",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(198).jpg",
     "format": "JPG",
@@ -7940,7 +7940,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_883",
-    "name": "1",
+    "name": "Anime Background #199",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(199).jpg",
     "format": "JPG",
@@ -7949,7 +7949,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_884",
-    "name": "1",
+    "name": "Anime Background #20",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(20).jpg",
     "format": "JPG",
@@ -7958,7 +7958,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_885",
-    "name": "1",
+    "name": "Anime Background #20",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(20).png",
     "format": "PNG",
@@ -7967,7 +7967,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_886",
-    "name": "1",
+    "name": "Anime Background #200",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(200).jpg",
     "format": "JPG",
@@ -7976,7 +7976,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_887",
-    "name": "1",
+    "name": "Anime Background #201",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(201).jpg",
     "format": "JPG",
@@ -7985,7 +7985,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_888",
-    "name": "1",
+    "name": "Anime Background #202",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(202).jpg",
     "format": "JPG",
@@ -7994,7 +7994,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_889",
-    "name": "1",
+    "name": "Anime Background #203",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(203).jpg",
     "format": "JPG",
@@ -8003,7 +8003,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_890",
-    "name": "1",
+    "name": "Anime Background #204",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(204).jpg",
     "format": "JPG",
@@ -8012,7 +8012,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_891",
-    "name": "1",
+    "name": "Anime Background #205",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(205).jpg",
     "format": "JPG",
@@ -8021,7 +8021,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_892",
-    "name": "1",
+    "name": "Anime Background #206",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(206).jpg",
     "format": "JPG",
@@ -8030,7 +8030,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_893",
-    "name": "1",
+    "name": "Anime Background #207",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(207).jpg",
     "format": "JPG",
@@ -8039,7 +8039,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_894",
-    "name": "1",
+    "name": "Anime Background #208",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(208).jpg",
     "format": "JPG",
@@ -8048,7 +8048,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_895",
-    "name": "1",
+    "name": "Anime Background #209",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(209).jpg",
     "format": "JPG",
@@ -8057,7 +8057,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_896",
-    "name": "1",
+    "name": "Anime Background #21",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(21).jpg",
     "format": "JPG",
@@ -8066,7 +8066,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_897",
-    "name": "1",
+    "name": "Anime Background #21",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(21).png",
     "format": "PNG",
@@ -8075,7 +8075,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_898",
-    "name": "1",
+    "name": "Anime Background #210",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(210).jpg",
     "format": "JPG",
@@ -8084,7 +8084,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_899",
-    "name": "1",
+    "name": "Anime Background #211",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(211).jpg",
     "format": "JPG",
@@ -8093,7 +8093,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_900",
-    "name": "1",
+    "name": "Anime Background #212",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(212).jpg",
     "format": "JPG",
@@ -8102,7 +8102,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_901",
-    "name": "1",
+    "name": "Anime Background #213",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(213).jpg",
     "format": "JPG",
@@ -8111,7 +8111,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_902",
-    "name": "1",
+    "name": "Anime Background #214",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(214).jpg",
     "format": "JPG",
@@ -8120,7 +8120,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_903",
-    "name": "1",
+    "name": "Anime Background #215",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(215).jpg",
     "format": "JPG",
@@ -8129,7 +8129,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_904",
-    "name": "1",
+    "name": "Anime Background #216",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(216).jpg",
     "format": "JPG",
@@ -8138,7 +8138,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_905",
-    "name": "1",
+    "name": "Anime Background #217",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(217).jpg",
     "format": "JPG",
@@ -8147,7 +8147,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_906",
-    "name": "1",
+    "name": "Anime Background #218",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(218).jpg",
     "format": "JPG",
@@ -8156,7 +8156,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_907",
-    "name": "1",
+    "name": "Anime Background #219",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(219).jpg",
     "format": "JPG",
@@ -8165,7 +8165,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_908",
-    "name": "1",
+    "name": "Anime Background #22",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(22).jpg",
     "format": "JPG",
@@ -8174,7 +8174,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_909",
-    "name": "1",
+    "name": "Anime Background #22",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(22).png",
     "format": "PNG",
@@ -8183,7 +8183,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_910",
-    "name": "1",
+    "name": "Anime Background #220",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(220).jpg",
     "format": "JPG",
@@ -8192,7 +8192,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_911",
-    "name": "1",
+    "name": "Anime Background #221",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(221).jpg",
     "format": "JPG",
@@ -8201,7 +8201,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_912",
-    "name": "1",
+    "name": "Anime Background #222",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(222).jpg",
     "format": "JPG",
@@ -8210,7 +8210,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_913",
-    "name": "1",
+    "name": "Anime Background #223",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(223).jpg",
     "format": "JPG",
@@ -8219,7 +8219,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_914",
-    "name": "1",
+    "name": "Anime Background #224",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(224).jpg",
     "format": "JPG",
@@ -8228,7 +8228,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_915",
-    "name": "1",
+    "name": "Anime Background #225",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(225).jpg",
     "format": "JPG",
@@ -8237,7 +8237,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_916",
-    "name": "1",
+    "name": "Anime Background #226",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(226).jpg",
     "format": "JPG",
@@ -8246,7 +8246,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_917",
-    "name": "1",
+    "name": "Anime Background #227",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(227).jpg",
     "format": "JPG",
@@ -8255,7 +8255,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_918",
-    "name": "1",
+    "name": "Anime Background #228",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(228).jpg",
     "format": "JPG",
@@ -8264,7 +8264,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_919",
-    "name": "1",
+    "name": "Anime Background #229",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(229).jpg",
     "format": "JPG",
@@ -8273,7 +8273,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_920",
-    "name": "1",
+    "name": "Anime Background #23",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(23).jpg",
     "format": "JPG",
@@ -8282,7 +8282,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_921",
-    "name": "1",
+    "name": "Anime Background #23",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(23).png",
     "format": "PNG",
@@ -8291,7 +8291,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_922",
-    "name": "1",
+    "name": "Anime Background #230",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(230).jpg",
     "format": "JPG",
@@ -8300,7 +8300,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_923",
-    "name": "1",
+    "name": "Anime Background #231",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(231).jpg",
     "format": "JPG",
@@ -8309,7 +8309,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_924",
-    "name": "1",
+    "name": "Anime Background #232",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(232).jpg",
     "format": "JPG",
@@ -8318,7 +8318,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_925",
-    "name": "1",
+    "name": "Anime Background #233",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(233).jpg",
     "format": "JPG",
@@ -8327,7 +8327,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_926",
-    "name": "1",
+    "name": "Anime Background #234",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(234).jpg",
     "format": "JPG",
@@ -8336,7 +8336,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_927",
-    "name": "1",
+    "name": "Anime Background #235",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(235).jpg",
     "format": "JPG",
@@ -8345,7 +8345,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_928",
-    "name": "1",
+    "name": "Anime Background #236",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(236).jpg",
     "format": "JPG",
@@ -8354,7 +8354,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_929",
-    "name": "1",
+    "name": "Anime Background #237",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(237).jpg",
     "format": "JPG",
@@ -8363,7 +8363,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_930",
-    "name": "1",
+    "name": "Anime Background #239",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(239).jpg",
     "format": "JPG",
@@ -8372,7 +8372,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_931",
-    "name": "1",
+    "name": "Anime Background #24",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(24).jpg",
     "format": "JPG",
@@ -8381,7 +8381,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_932",
-    "name": "1",
+    "name": "Anime Background #24",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(24).png",
     "format": "PNG",
@@ -8390,7 +8390,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_933",
-    "name": "1",
+    "name": "Anime Background #240",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(240).jpg",
     "format": "JPG",
@@ -8399,7 +8399,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_934",
-    "name": "1",
+    "name": "Anime Background #25",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(25).jpg",
     "format": "JPG",
@@ -8408,7 +8408,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_935",
-    "name": "1",
+    "name": "Anime Background #25",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(25).png",
     "format": "PNG",
@@ -8417,7 +8417,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_936",
-    "name": "1",
+    "name": "Anime Background #26",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(26).jpg",
     "format": "JPG",
@@ -8426,7 +8426,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_937",
-    "name": "1",
+    "name": "Anime Background #26",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(26).png",
     "format": "PNG",
@@ -8435,7 +8435,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_938",
-    "name": "1",
+    "name": "Anime Background #27",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(27).jpg",
     "format": "JPG",
@@ -8444,7 +8444,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_939",
-    "name": "1",
+    "name": "Anime Background #27",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(27).png",
     "format": "PNG",
@@ -8453,7 +8453,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_940",
-    "name": "1",
+    "name": "Anime Background #28",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(28).jpg",
     "format": "JPG",
@@ -8462,7 +8462,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_941",
-    "name": "1",
+    "name": "Anime Background #28",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(28).png",
     "format": "PNG",
@@ -8471,7 +8471,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_942",
-    "name": "1",
+    "name": "Anime Background #29",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(29).jpg",
     "format": "JPG",
@@ -8480,7 +8480,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_943",
-    "name": "1",
+    "name": "Anime Background #29",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(29).png",
     "format": "PNG",
@@ -8489,7 +8489,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_944",
-    "name": "1",
+    "name": "Anime Background #30",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(30).jpg",
     "format": "JPG",
@@ -8498,7 +8498,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_945",
-    "name": "1",
+    "name": "Anime Background #30",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(30).png",
     "format": "PNG",
@@ -8507,7 +8507,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_946",
-    "name": "1",
+    "name": "Anime Background #31",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(31).jpg",
     "format": "JPG",
@@ -8516,7 +8516,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_947",
-    "name": "1",
+    "name": "Anime Background #31",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(31).png",
     "format": "PNG",
@@ -8525,7 +8525,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_948",
-    "name": "1",
+    "name": "Anime Background #32",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(32).jpg",
     "format": "JPG",
@@ -8534,7 +8534,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_949",
-    "name": "1",
+    "name": "Anime Background #32",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(32).png",
     "format": "PNG",
@@ -8543,7 +8543,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_950",
-    "name": "1",
+    "name": "Anime Background #33",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(33).jpg",
     "format": "JPG",
@@ -8552,7 +8552,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_951",
-    "name": "1",
+    "name": "Anime Background #33",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(33).png",
     "format": "PNG",
@@ -8561,7 +8561,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_952",
-    "name": "1",
+    "name": "Anime Background #34",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(34).jpg",
     "format": "JPG",
@@ -8570,7 +8570,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_953",
-    "name": "1",
+    "name": "Anime Background #34",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(34).png",
     "format": "PNG",
@@ -8579,7 +8579,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_954",
-    "name": "1",
+    "name": "Anime Background #35",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(35).jpg",
     "format": "JPG",
@@ -8588,7 +8588,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_955",
-    "name": "1",
+    "name": "Anime Background #35",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(35).png",
     "format": "PNG",
@@ -8597,7 +8597,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_956",
-    "name": "1",
+    "name": "Anime Background #36",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(36).jpg",
     "format": "JPG",
@@ -8606,7 +8606,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_957",
-    "name": "1",
+    "name": "Anime Background #36",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(36).png",
     "format": "PNG",
@@ -8615,7 +8615,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_958",
-    "name": "1",
+    "name": "Anime Background #37",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(37).jpg",
     "format": "JPG",
@@ -8624,7 +8624,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_959",
-    "name": "1",
+    "name": "Anime Background #37",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(37).png",
     "format": "PNG",
@@ -8633,7 +8633,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_960",
-    "name": "1",
+    "name": "Anime Background #38",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(38).jpg",
     "format": "JPG",
@@ -8642,7 +8642,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_961",
-    "name": "1",
+    "name": "Anime Background #38",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(38).png",
     "format": "PNG",
@@ -8651,7 +8651,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_962",
-    "name": "1",
+    "name": "Anime Background #39",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(39).jpg",
     "format": "JPG",
@@ -8660,7 +8660,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_963",
-    "name": "1",
+    "name": "Anime Background #39",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(39).png",
     "format": "PNG",
@@ -8669,7 +8669,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_964",
-    "name": "1",
+    "name": "Anime Background #40",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(40).jpg",
     "format": "JPG",
@@ -8678,7 +8678,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_965",
-    "name": "1",
+    "name": "Anime Background #40",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(40).png",
     "format": "PNG",
@@ -8687,7 +8687,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_966",
-    "name": "1",
+    "name": "Anime Background #41",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(41).jpg",
     "format": "JPG",
@@ -8696,7 +8696,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_967",
-    "name": "1",
+    "name": "Anime Background #41",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(41).png",
     "format": "PNG",
@@ -8705,7 +8705,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_968",
-    "name": "1",
+    "name": "Anime Background #42",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(42).jpg",
     "format": "JPG",
@@ -8714,7 +8714,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_969",
-    "name": "1",
+    "name": "Anime Background #42",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(42).png",
     "format": "PNG",
@@ -8723,7 +8723,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_970",
-    "name": "1",
+    "name": "Anime Background #43",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(43).jpg",
     "format": "JPG",
@@ -8732,7 +8732,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_971",
-    "name": "1",
+    "name": "Anime Background #43",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(43).png",
     "format": "PNG",
@@ -8741,7 +8741,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_972",
-    "name": "1",
+    "name": "Anime Background #44",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(44).jpg",
     "format": "JPG",
@@ -8750,7 +8750,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_973",
-    "name": "1",
+    "name": "Anime Background #44",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(44).png",
     "format": "PNG",
@@ -8759,7 +8759,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_974",
-    "name": "1",
+    "name": "Anime Background #45",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(45).jpg",
     "format": "JPG",
@@ -8768,7 +8768,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_975",
-    "name": "1",
+    "name": "Anime Background #45",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(45).png",
     "format": "PNG",
@@ -8777,7 +8777,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_976",
-    "name": "1",
+    "name": "Anime Background #46",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(46).jpg",
     "format": "JPG",
@@ -8786,7 +8786,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_977",
-    "name": "1",
+    "name": "Anime Background #46",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(46).png",
     "format": "PNG",
@@ -8795,7 +8795,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_978",
-    "name": "1",
+    "name": "Anime Background #47",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(47).jpg",
     "format": "JPG",
@@ -8804,7 +8804,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_979",
-    "name": "1",
+    "name": "Anime Background #47",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(47).png",
     "format": "PNG",
@@ -8813,7 +8813,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_980",
-    "name": "1",
+    "name": "Anime Background #48",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(48).jpg",
     "format": "JPG",
@@ -8822,7 +8822,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_981",
-    "name": "1",
+    "name": "Anime Background #48",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(48).png",
     "format": "PNG",
@@ -8831,7 +8831,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_982",
-    "name": "1",
+    "name": "Anime Background #49",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(49).jpg",
     "format": "JPG",
@@ -8840,7 +8840,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_983",
-    "name": "1",
+    "name": "Anime Background #49",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(49).png",
     "format": "PNG",
@@ -8849,7 +8849,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_984",
-    "name": "1",
+    "name": "Anime Background #50",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(50).jpg",
     "format": "JPG",
@@ -8858,7 +8858,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_985",
-    "name": "1",
+    "name": "Anime Background #50",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(50).png",
     "format": "PNG",
@@ -8867,7 +8867,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_986",
-    "name": "1",
+    "name": "Anime Background #51",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(51).jpg",
     "format": "JPG",
@@ -8876,7 +8876,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_987",
-    "name": "1",
+    "name": "Anime Background #51",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(51).png",
     "format": "PNG",
@@ -8885,7 +8885,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_988",
-    "name": "1",
+    "name": "Anime Background #52",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(52).jpg",
     "format": "JPG",
@@ -8894,7 +8894,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_989",
-    "name": "1",
+    "name": "Anime Background #52",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(52).png",
     "format": "PNG",
@@ -8903,7 +8903,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_990",
-    "name": "1",
+    "name": "Anime Background #53",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(53).jpg",
     "format": "JPG",
@@ -8912,7 +8912,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_991",
-    "name": "1",
+    "name": "Anime Background #53",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(53).png",
     "format": "PNG",
@@ -8921,7 +8921,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_992",
-    "name": "1",
+    "name": "Anime Background #54",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(54).jpg",
     "format": "JPG",
@@ -8930,7 +8930,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_993",
-    "name": "1",
+    "name": "Anime Background #54",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(54).png",
     "format": "PNG",
@@ -8939,7 +8939,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_994",
-    "name": "1",
+    "name": "Anime Background #55",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(55).jpg",
     "format": "JPG",
@@ -8948,7 +8948,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_995",
-    "name": "1",
+    "name": "Anime Background #55",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(55).png",
     "format": "PNG",
@@ -8957,7 +8957,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_996",
-    "name": "1",
+    "name": "Anime Background #56",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(56).jpg",
     "format": "JPG",
@@ -8966,7 +8966,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_997",
-    "name": "1",
+    "name": "Anime Background #56",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(56).png",
     "format": "PNG",
@@ -8975,7 +8975,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_998",
-    "name": "1",
+    "name": "Anime Background #57",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(57).jpg",
     "format": "JPG",
@@ -8984,7 +8984,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_999",
-    "name": "1",
+    "name": "Anime Background #57",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(57).png",
     "format": "PNG",
@@ -8993,7 +8993,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1000",
-    "name": "1",
+    "name": "Anime Background #58",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(58).jpg",
     "format": "JPG",
@@ -9002,7 +9002,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1001",
-    "name": "1",
+    "name": "Anime Background #58",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(58).png",
     "format": "PNG",
@@ -9011,7 +9011,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1002",
-    "name": "1",
+    "name": "Anime Background #59",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(59).jpg",
     "format": "JPG",
@@ -9020,7 +9020,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1003",
-    "name": "1",
+    "name": "Anime Background #59",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(59).png",
     "format": "PNG",
@@ -9029,7 +9029,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1004",
-    "name": "1",
+    "name": "Anime Background #60",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(60).jpg",
     "format": "JPG",
@@ -9038,7 +9038,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1005",
-    "name": "1",
+    "name": "Anime Background #60",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(60).png",
     "format": "PNG",
@@ -9047,7 +9047,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1006",
-    "name": "1",
+    "name": "Anime Background #61",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(61).jpg",
     "format": "JPG",
@@ -9056,7 +9056,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1007",
-    "name": "1",
+    "name": "Anime Background #61",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(61).png",
     "format": "PNG",
@@ -9065,7 +9065,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1008",
-    "name": "1",
+    "name": "Anime Background #62",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(62).jpg",
     "format": "JPG",
@@ -9074,7 +9074,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1009",
-    "name": "1",
+    "name": "Anime Background #62",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(62).png",
     "format": "PNG",
@@ -9083,7 +9083,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1010",
-    "name": "1",
+    "name": "Anime Background #63",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(63).jpg",
     "format": "JPG",
@@ -9092,7 +9092,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1011",
-    "name": "1",
+    "name": "Anime Background #63",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(63).png",
     "format": "PNG",
@@ -9101,7 +9101,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1012",
-    "name": "1",
+    "name": "Anime Background #64",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(64).jpg",
     "format": "JPG",
@@ -9110,7 +9110,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1013",
-    "name": "1",
+    "name": "Anime Background #64",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(64).png",
     "format": "PNG",
@@ -9119,7 +9119,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1014",
-    "name": "1",
+    "name": "Anime Background #65",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(65).jpg",
     "format": "JPG",
@@ -9128,7 +9128,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1015",
-    "name": "1",
+    "name": "Anime Background #65",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(65).png",
     "format": "PNG",
@@ -9137,7 +9137,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1016",
-    "name": "1",
+    "name": "Anime Background #66",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(66).jpg",
     "format": "JPG",
@@ -9146,7 +9146,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1017",
-    "name": "1",
+    "name": "Anime Background #66",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(66).png",
     "format": "PNG",
@@ -9155,7 +9155,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1018",
-    "name": "1",
+    "name": "Anime Background #67",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(67).jpg",
     "format": "JPG",
@@ -9164,7 +9164,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1019",
-    "name": "1",
+    "name": "Anime Background #67",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(67).png",
     "format": "PNG",
@@ -9173,7 +9173,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1020",
-    "name": "1",
+    "name": "Anime Background #68",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(68).jpg",
     "format": "JPG",
@@ -9182,7 +9182,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1021",
-    "name": "1",
+    "name": "Anime Background #68",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(68).png",
     "format": "PNG",
@@ -9191,7 +9191,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1022",
-    "name": "1",
+    "name": "Anime Background #69",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(69).jpg",
     "format": "JPG",
@@ -9200,7 +9200,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1023",
-    "name": "1",
+    "name": "Anime Background #69",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(69).png",
     "format": "PNG",
@@ -9209,7 +9209,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1024",
-    "name": "1",
+    "name": "Anime Background #70",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(70).jpg",
     "format": "JPG",
@@ -9218,7 +9218,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1025",
-    "name": "1",
+    "name": "Anime Background #70",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(70).png",
     "format": "PNG",
@@ -9227,7 +9227,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1026",
-    "name": "1",
+    "name": "Anime Background #71",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(71).jpg",
     "format": "JPG",
@@ -9236,7 +9236,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1027",
-    "name": "1",
+    "name": "Anime Background #71",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(71).png",
     "format": "PNG",
@@ -9245,7 +9245,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1028",
-    "name": "1",
+    "name": "Anime Background #72",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(72).jpg",
     "format": "JPG",
@@ -9254,7 +9254,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1029",
-    "name": "1",
+    "name": "Anime Background #72",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(72).png",
     "format": "PNG",
@@ -9263,7 +9263,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1030",
-    "name": "1",
+    "name": "Anime Background #73",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(73).jpg",
     "format": "JPG",
@@ -9272,7 +9272,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1031",
-    "name": "1",
+    "name": "Anime Background #73",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(73).png",
     "format": "PNG",
@@ -9281,7 +9281,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1032",
-    "name": "1",
+    "name": "Anime Background #74",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(74).jpg",
     "format": "JPG",
@@ -9290,7 +9290,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1033",
-    "name": "1",
+    "name": "Anime Background #74",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(74).png",
     "format": "PNG",
@@ -9299,7 +9299,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1034",
-    "name": "1",
+    "name": "Anime Background #75",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(75).jpg",
     "format": "JPG",
@@ -9308,7 +9308,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1035",
-    "name": "1",
+    "name": "Anime Background #75",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(75).png",
     "format": "PNG",
@@ -9317,7 +9317,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1036",
-    "name": "1",
+    "name": "Anime Background #76",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(76).jpg",
     "format": "JPG",
@@ -9326,7 +9326,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1037",
-    "name": "1",
+    "name": "Anime Background #76",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(76).png",
     "format": "PNG",
@@ -9335,7 +9335,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1038",
-    "name": "1",
+    "name": "Anime Background #77",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(77).jpg",
     "format": "JPG",
@@ -9344,7 +9344,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1039",
-    "name": "1",
+    "name": "Anime Background #77",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(77).png",
     "format": "PNG",
@@ -9353,7 +9353,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1040",
-    "name": "1",
+    "name": "Anime Background #78",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(78).jpg",
     "format": "JPG",
@@ -9362,7 +9362,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1041",
-    "name": "1",
+    "name": "Anime Background #78",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(78).png",
     "format": "PNG",
@@ -9371,7 +9371,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1042",
-    "name": "1",
+    "name": "Anime Background #79",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(79).jpg",
     "format": "JPG",
@@ -9380,7 +9380,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1043",
-    "name": "1",
+    "name": "Anime Background #79",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(79).png",
     "format": "PNG",
@@ -9389,7 +9389,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1044",
-    "name": "1",
+    "name": "Anime Background #80",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(80).jpg",
     "format": "JPG",
@@ -9398,7 +9398,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1045",
-    "name": "1",
+    "name": "Anime Background #80",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(80).png",
     "format": "PNG",
@@ -9407,7 +9407,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1046",
-    "name": "1",
+    "name": "Anime Background #81",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(81).jpg",
     "format": "JPG",
@@ -9416,7 +9416,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1047",
-    "name": "1",
+    "name": "Anime Background #81",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(81).png",
     "format": "PNG",
@@ -9425,7 +9425,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1048",
-    "name": "1",
+    "name": "Anime Background #82",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(82).jpg",
     "format": "JPG",
@@ -9434,7 +9434,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1049",
-    "name": "1",
+    "name": "Anime Background #82",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(82).png",
     "format": "PNG",
@@ -9443,7 +9443,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1050",
-    "name": "1",
+    "name": "Anime Background #83",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(83).jpg",
     "format": "JPG",
@@ -9452,7 +9452,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1051",
-    "name": "1",
+    "name": "Anime Background #83",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(83).png",
     "format": "PNG",
@@ -9461,7 +9461,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1052",
-    "name": "1",
+    "name": "Anime Background #84",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(84).jpg",
     "format": "JPG",
@@ -9470,7 +9470,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1053",
-    "name": "1",
+    "name": "Anime Background #84",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(84).png",
     "format": "PNG",
@@ -9479,7 +9479,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1054",
-    "name": "1",
+    "name": "Anime Background #85",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(85).jpg",
     "format": "JPG",
@@ -9488,7 +9488,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1055",
-    "name": "1",
+    "name": "Anime Background #85",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(85).png",
     "format": "PNG",
@@ -9497,7 +9497,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1056",
-    "name": "1",
+    "name": "Anime Background #86",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(86).jpg",
     "format": "JPG",
@@ -9506,7 +9506,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1057",
-    "name": "1",
+    "name": "Anime Background #86",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(86).png",
     "format": "PNG",
@@ -9515,7 +9515,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1058",
-    "name": "1",
+    "name": "Anime Background #87",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(87).jpg",
     "format": "JPG",
@@ -9524,7 +9524,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1059",
-    "name": "1",
+    "name": "Anime Background #87",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(87).png",
     "format": "PNG",
@@ -9533,7 +9533,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1060",
-    "name": "1",
+    "name": "Anime Background #88",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(88).jpg",
     "format": "JPG",
@@ -9542,7 +9542,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1061",
-    "name": "1",
+    "name": "Anime Background #88",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(88).png",
     "format": "PNG",
@@ -9551,7 +9551,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1062",
-    "name": "1",
+    "name": "Anime Background #89",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(89).jpg",
     "format": "JPG",
@@ -9560,7 +9560,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1063",
-    "name": "1",
+    "name": "Anime Background #89",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(89).png",
     "format": "PNG",
@@ -9569,7 +9569,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1064",
-    "name": "1",
+    "name": "Anime Background #90",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(90).jpg",
     "format": "JPG",
@@ -9578,7 +9578,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1065",
-    "name": "1",
+    "name": "Anime Background #90",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(90).png",
     "format": "PNG",
@@ -9587,7 +9587,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1066",
-    "name": "1",
+    "name": "Anime Background #91",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(91).jpg",
     "format": "JPG",
@@ -9596,7 +9596,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1067",
-    "name": "1",
+    "name": "Anime Background #91",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(91).png",
     "format": "PNG",
@@ -9605,7 +9605,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1068",
-    "name": "1",
+    "name": "Anime Background #92",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(92).jpg",
     "format": "JPG",
@@ -9614,7 +9614,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1069",
-    "name": "1",
+    "name": "Anime Background #92",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(92).png",
     "format": "PNG",
@@ -9623,7 +9623,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1070",
-    "name": "1",
+    "name": "Anime Background #93",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(93).jpg",
     "format": "JPG",
@@ -9632,7 +9632,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1071",
-    "name": "1",
+    "name": "Anime Background #93",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(93).png",
     "format": "PNG",
@@ -9641,7 +9641,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1072",
-    "name": "1",
+    "name": "Anime Background #94",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(94).jpg",
     "format": "JPG",
@@ -9650,7 +9650,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1073",
-    "name": "1",
+    "name": "Anime Background #94",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(94).png",
     "format": "PNG",
@@ -9659,7 +9659,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1074",
-    "name": "1",
+    "name": "Anime Background #95",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(95).jpg",
     "format": "JPG",
@@ -9668,7 +9668,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1075",
-    "name": "1",
+    "name": "Anime Background #95",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(95).png",
     "format": "PNG",
@@ -9677,7 +9677,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1076",
-    "name": "1",
+    "name": "Anime Background #96",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(96).jpg",
     "format": "JPG",
@@ -9686,7 +9686,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1077",
-    "name": "1",
+    "name": "Anime Background #96",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(96).png",
     "format": "PNG",
@@ -9695,7 +9695,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1078",
-    "name": "1",
+    "name": "Anime Background #97",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(97).jpg",
     "format": "JPG",
@@ -9704,7 +9704,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1079",
-    "name": "1",
+    "name": "Anime Background #97",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(97).png",
     "format": "PNG",
@@ -9713,7 +9713,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1080",
-    "name": "1",
+    "name": "Anime Background #98",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(98).jpg",
     "format": "JPG",
@@ -9722,7 +9722,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1081",
-    "name": "1",
+    "name": "Anime Background #98",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(98).png",
     "format": "PNG",
@@ -9731,7 +9731,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1082",
-    "name": "1",
+    "name": "Anime Background #99",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(99).jpg",
     "format": "JPG",
@@ -9740,7 +9740,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1083",
-    "name": "1",
+    "name": "Anime Background #99",
     "category": "Anime Backgrounds",
     "url": "https://wondermayank.github.io/wallpaper/AnimeBackgrounds-master/1%20(99).png",
     "format": "PNG",
@@ -11018,7 +11018,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1225",
-    "name": "Unknown",
+    "name": "Wallpaper #1",
     "category": "anime",
     "url": "https://wondermayank.github.io/wallpaper/Wallpapers-main/anime/unknown%20(1).png",
     "format": "PNG",
@@ -11027,7 +11027,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1226",
-    "name": "Unknown",
+    "name": "Wallpaper #2",
     "category": "anime",
     "url": "https://wondermayank.github.io/wallpaper/Wallpapers-main/anime/unknown%20(2).png",
     "format": "PNG",
@@ -11477,7 +11477,7 @@ const WALLPAPERS = [
   },
   {
     "id": "wp_1276",
-    "name": "Unknown",
+    "name": "Wallpaper #2",
     "category": "cyberpunk",
     "url": "https://wondermayank.github.io/wallpaper/Wallpapers-main/cyberpunk/unknown%20(2).png",
     "format": "PNG",

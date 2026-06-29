@@ -70,7 +70,7 @@ function generate() {
     const parentDir = path.basename(path.dirname(filePath));
     const category = getCategory(parentDir);
     const fileName = path.basename(filePath);
-    const name = cleanName(fileName);
+    const name = cleanName(fileName, category, index);
     const format = path.extname(filePath).substring(1).toUpperCase();
     const stat = fs.statSync(filePath);
     const sizeMB = (stat.size / (1024 * 1024)).toFixed(2);

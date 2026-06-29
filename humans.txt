@@ -1,0 +1,21 @@
+/* humanstxt.org */
+
+/* TEAM */
+  Creator: wondermayank
+  Website: https://wondermayank.in
+  GitHub:  https://github.com/wondermayank
+  Location: India
+
+/* THANKS */
+  Inspired by Pinterest.com
+  Icons provided by Font Awesome (https://fontawesome.com)
+  Fonts provided by Google Fonts (https://fonts.google.com)
+
+/* SITE */
+  Last update: 2026/06/29
+  Language: English
+  Doctype: HTML5
+  Standards: HTML5, CSS3, Vanilla JS, HTML5 Canvas API
+  Components: CSS Columns Masonry, IntersectionObserver Infinite Scroll
+  IDE: VS Code
+  Hosted: GitHub Pages (https://pages.github.com)

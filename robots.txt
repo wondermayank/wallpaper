@@ -1,0 +1,43 @@
+User-agent: *
+Allow: /
+Disallow: /generate_db.js
+Disallow: /server.js
+
+# Standard crawlers
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+# AI Crawlers — allow for GEO discoverability
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Reference files for AI indexing
+Allow: /llm.txt
+Allow: /humans.txt
+Allow: /database.js
+
+Sitemap: https://wondermayank.github.io/wallpaper/sitemap.xml
