@@ -20,6 +20,17 @@
 </head>
 <body>
 
+  <!-- Loading Splash Screen -->
+  <div id="splash-screen" class="splash-screen">
+    <div class="splash-logo">
+      <i class="fas fa-wind logo-icon"></i>
+      <span class="splash-title">AeroPaper</span>
+    </div>
+    <div class="splash-loader-bar">
+      <div id="splash-progress" class="splash-loader-progress"></div>
+    </div>
+  </div>
+
   <div class="app-container">
     <!-- Sticky Glassmorphic Header -->
     <header>
@@ -42,6 +53,9 @@
       
       <!-- Action Controls -->
       <div class="header-actions">
+        <button id="surprise-btn" class="nav-btn surprise-btn" title="Surprise Me (Random Wallpaper)">
+          <i class="fas fa-random"></i> <span>Surprise Me</span>
+        </button>
         <button id="explore-tab" class="nav-btn active">
           <i class="fas fa-compass"></i> <span>Explore</span>
         </button>
@@ -73,6 +87,14 @@
             <!-- Dynamic Format Pills -->
           </div>
         </div>
+
+        <!-- Custom Boards filter -->
+        <div class="filter-row" id="boards-filter-row" style="display: none;">
+          <span class="filter-label">My Boards</span>
+          <div id="board-pills" class="filter-pills">
+            <!-- Dynamic Board Pills -->
+          </div>
+        </div>
         
         <!-- Wallpaper Stats count -->
         <div class="stat-pills">
@@ -88,6 +110,21 @@
         </div>
       </div>
     </main>
+
+    <!-- Branded Footer -->
+    <footer>
+      <div class="footer-content">
+        <div class="footer-logo">
+          <i class="fas fa-wind"></i> AeroPaper
+        </div>
+        <div class="footer-credits">
+          Made with 💜 by <a href="https://wondermayank.in" target="_blank" rel="noopener">wondermayank</a>
+        </div>
+        <div style="font-size: 0.8rem; opacity: 0.6; margin-top: 0.25rem;">
+          © 2026 AeroPaper. All wallpapers are hosted on <a href="https://wondermayank.github.io/wallpaper/" target="_blank" rel="noopener">GitHub</a>.
+        </div>
+      </div>
+    </footer>
   </div>
   
   <!-- Immersive Lightbox Modal -->
@@ -99,13 +136,17 @@
       </button>
       
       <!-- Lightbox Media Section -->
-      <div class="lightbox-media">
+      <div id="lightbox-media" class="lightbox-media">
         <img class="lightbox-img" src="" alt="" />
+        <div id="canvas-container" class="lightbox-canvas-container">
+          <canvas id="editor-canvas"></canvas>
+          <div id="crop-guide" class="crop-guide"></div>
+        </div>
       </div>
       
       <!-- Lightbox Detail Section -->
-      <div class="lightbox-details">
-        <div class="detail-header">
+      <div class="lightbox-details" style="overflow-y: auto; max-height: 100%;">
+        <div class="detail-header" style="margin-bottom: 1rem;">
           <span class="detail-category">Anime Wallpapers</span>
           <h2 class="detail-title">Wallpaper Title</h2>
           
@@ -121,6 +162,44 @@
             <div class="info-card" style="grid-column: span 2;">
               <div class="info-label">File Path</div>
               <div class="info-value" id="info-path" style="word-break: break-all; font-family: monospace; font-size: 0.8rem; font-weight: normal;">-</div>
+            </div>
+          </div>
+          
+          <!-- Board select container -->
+          <div class="board-select-container">
+            <select id="board-select" class="board-select">
+              <option value="">-- Add to Board --</option>
+              <option value="Favorites">Liked Wallpapers</option>
+            </select>
+            <button id="board-create-btn" class="board-add-btn" title="Create New Board">
+              <i class="fas fa-plus"></i>
+            </button>
+          </div>
+        </div>
+        
+        <!-- Editor Toggle & Panel -->
+        <div class="editor-toggle-container">
+          <button id="editor-toggle-btn" class="action-btn secondary-btn" style="padding: 0.6rem 1rem; font-size: 0.85rem; border-radius: 10px; width: 100%;">
+            <i class="fas fa-magic"></i> Edit Wallpaper (Crop & Blur)
+          </button>
+        </div>
+        
+        <div id="editor-panel" class="editor-panel">
+          <div class="slider-control">
+            <div class="slider-header">
+              <span>Gaussian Blur</span>
+              <strong id="blur-val">0px</strong>
+            </div>
+            <input type="range" id="blur-slider" class="slider-input" min="0" max="40" value="0" />
+          </div>
+          
+          <div class="aspect-ratio-control">
+            <div class="editor-section-title">Aspect Ratio Crop</div>
+            <div class="aspect-ratio-selector">
+              <button class="ratio-btn active" data-ratio="free">Free</button>
+              <button class="ratio-btn" data-ratio="1:1">1:1</button>
+              <button class="ratio-btn" data-ratio="16:9">16:9</button>
+              <button class="ratio-btn" data-ratio="9:16">9:16 (Phone)</button>
             </div>
           </div>
         </div>

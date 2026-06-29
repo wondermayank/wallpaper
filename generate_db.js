@@ -58,7 +58,7 @@ function generate() {
     // Replace backslashes with forward slashes for URLs
     const pathParts = relativePath.split(path.sep);
     const urlPath = pathParts.map(part => encodeURIComponent(part)).join('/');
-    const gitUrl = `https://raw.githubusercontent.com/wondermayank/wallpaper/main/${urlPath}`;
+    const gitUrl = `https://wondermayank.github.io/wallpaper/${urlPath}`;
     
     // Parent folder logic
     const parentDir = path.basename(path.dirname(filePath));
