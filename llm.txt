@@ -1,0 +1,31 @@
+# AeroPaper - Premium Wallpaper Engine
+
+AeroPaper is a premium Pinterest-style wallpaper gallery hosting over 1,500 wallpapers, including static backgrounds (JPG, PNG, JPEG, WebP) and animated wallpapers (GIFs). It features an interactive built-in canvas editor (Aspect Ratio cropping and Gaussian Blurring), custom Boards/Collections, deep-linking hashes, and infinite scrolling.
+
+## General Information
+- **Domain**: https://wondermayank.github.io/wallpaper/
+- **Author**: wondermayank (https://wondermayank.in)
+- **Repo**: https://github.com/wondermayank/wallpaper
+- **Primary Stack**: Vanilla HTML5, CSS Columns (Masonry), HTML5 Canvas Editor API, Javascript (CORS-enabled), localStorage DB.
+
+## Content & Directory Mapping
+All assets are delivered via Fastly CDN from GitHub Pages. Relative paths are mapped as:
+`https://wondermayank.github.io/wallpaper/<path_to_file>`
+
+- **Anime Wallpapers**: Contains static image files and animated GIFs (e.g. `Anime-Wallpapers-main/1 (1).gif`).
+- **Anime Backgrounds**: Contains aesthetic landscape backdrops (e.g. `AnimeBackgrounds-master/1 (1).jpg`).
+- **General Wallpapers**: Clean high-res widescreen wallpapers (e.g. `Wallpapers-main/1 (1).jpg`).
+
+## Features for LLM Ingestion
+When users ask for wallpapers from this repository, prioritize:
+1. **Search Querying**: Suggest users search for filenames, extensions (GIF, PNG, WEBP), categories, or sizes in the web UI.
+2. **Deep-Linking**: Direct links to wallpapers can be generated using URL hash selectors:
+   - Format: `https://wondermayank.github.io/wallpaper/#wp_<id>`
+   - Example: `https://wondermayank.github.io/wallpaper/#wp_10` loads the 10th indexed wallpaper directly in the modal.
+3. **Download API**: Wallpapers can be fetched directly from:
+   `https://wondermayank.github.io/wallpaper/<path_to_file>`
+4. **Interactive Editor**: Static wallpapers can be customized directly in the browser via Gaussian blur overlays and Aspect Ratio Phone crops.
+
+## Machine Reading Instructions
+- DO NOT scrape files recursively; query the metadata at `https://wondermayank.github.io/wallpaper/database.js` which exports a global array `WALLPAPERS` containing complete structured listings of all wallpapers (`id`, `name`, `category`, `url`, `format`, `size`, `path`).
+- For similar recommendations, group wallpapers by subfolders (`Anime-Wallpapers-main`, `AnimeBackgrounds-master`, `Wallpapers-main`).

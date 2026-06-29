@@ -56,6 +56,12 @@
         <button id="surprise-btn" class="nav-btn surprise-btn" title="Surprise Me (Random Wallpaper)">
           <i class="fas fa-random"></i> <span>Surprise Me</span>
         </button>
+        <!-- Grid Density Control -->
+        <div class="density-selector">
+          <button class="density-btn" data-density="lg" title="Large Grid"><i class="fas fa-th-large"></i></button>
+          <button class="density-btn active" data-density="md" title="Medium Grid"><i class="fas fa-th"></i></button>
+          <button class="density-btn" data-density="sm" title="Small Grid"><i class="fas fa-grip-horizontal"></i></button>
+        </div>
         <button id="explore-tab" class="nav-btn active">
           <i class="fas fa-compass"></i> <span>Explore</span>
         </button>
@@ -96,10 +102,24 @@
           </div>
         </div>
         
-        <!-- Wallpaper Stats count -->
-        <div class="stat-pills">
-          <span>Found: <strong id="view-count">0</strong> wallpapers</span>
-          <span>Database: <strong id="total-count">0</strong> total</span>
+        <!-- Wallpaper Stats & Actions -->
+        <div class="stats-actions-row">
+          <div class="stat-pills">
+            <span>Found: <strong id="view-count">0</strong> wallpapers</span>
+            <span>Database: <strong id="total-count">0</strong> total</span>
+          </div>
+          <div class="layout-controls-right">
+            <select id="sort-select" class="sort-select" title="Sort Wallpapers">
+              <option value="default">Default Order</option>
+              <option value="name-asc">Name (A - Z)</option>
+              <option value="name-desc">Name (Z - A)</option>
+              <option value="size-asc">Size (Smallest)</option>
+              <option value="size-desc">Size (Largest)</option>
+            </select>
+            <button id="slideshow-trigger" class="nav-btn surprise-btn" style="padding: 0.5rem 1rem; font-size: 0.85rem;" title="Start Slideshow Autoplay">
+              <i class="fas fa-play"></i> Slideshow
+            </button>
+          </div>
         </div>
       </div>
       
@@ -121,7 +141,7 @@
           Made with 💜 by <a href="https://wondermayank.in" target="_blank" rel="noopener">wondermayank</a>
         </div>
         <div style="font-size: 0.8rem; opacity: 0.6; margin-top: 0.25rem;">
-          © 2026 AeroPaper. All wallpapers are hosted on <a href="https://wondermayank.github.io/wallpaper/" target="_blank" rel="noopener">GitHub</a>.
+          © 2026 AeroPaper.
         </div>
       </div>
     </footer>
@@ -192,15 +212,29 @@
             </div>
             <input type="range" id="blur-slider" class="slider-input" min="0" max="40" value="0" />
           </div>
+
+          <div class="slider-control" id="pan-control" style="display: none;">
+            <div class="slider-header">
+              <span id="pan-label">Crop Position Pan</span>
+              <strong id="pan-val">50%</strong>
+            </div>
+            <input type="range" id="pan-slider" class="slider-input" min="0" max="100" value="50" />
+          </div>
           
           <div class="aspect-ratio-control">
             <div class="editor-section-title">Aspect Ratio Crop</div>
-            <div class="aspect-ratio-selector">
+            <div class="aspect-ratio-selector" style="margin-bottom: 0.8rem;">
               <button class="ratio-btn active" data-ratio="free">Free</button>
               <button class="ratio-btn" data-ratio="1:1">1:1</button>
               <button class="ratio-btn" data-ratio="16:9">16:9</button>
               <button class="ratio-btn" data-ratio="9:16">9:16 (Phone)</button>
             </div>
+
+            <!-- Blurred Fit checkbox toggle -->
+            <label class="checkbox-control" id="blur-fit-container" style="display: none;">
+              <input type="checkbox" id="blur-fit-checkbox" />
+              <span>Blurred Fit (Show PC wallpaper in phone with blur background)</span>
+            </label>
           </div>
         </div>
         
@@ -211,8 +245,25 @@
           <button id="lightbox-like" class="action-btn secondary-btn">
             <i class="far fa-heart"></i> Favorite
           </button>
+          <button id="lightbox-slideshow" class="action-btn secondary-btn lightbox-slideshow-btn" title="Start slideshow from this wallpaper">
+            <i class="fas fa-play"></i> Slideshow
+          </button>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- Fullscreen Slideshow Overlay -->
+  <div id="slideshow-overlay" class="slideshow-overlay">
+    <div class="slideshow-progress-bar" id="slideshow-progress"></div>
+    <div class="slideshow-img-container">
+      <img id="slideshow-img" class="slideshow-img" src="" alt="" />
+    </div>
+    <div class="slideshow-controls">
+      <button id="slideshow-prev" class="slideshow-btn" title="Previous (Arrow Left)"><i class="fas fa-chevron-left"></i></button>
+      <button id="slideshow-play" class="slideshow-btn" title="Play/Pause (Space)"><i class="fas fa-pause"></i></button>
+      <button id="slideshow-next" class="slideshow-btn" title="Next (Arrow Right)"><i class="fas fa-chevron-right"></i></button>
+      <button id="slideshow-close" class="slideshow-btn close-btn" title="Close Slideshow (Esc)"><i class="fas fa-times"></i></button>
     </div>
   </div>
 

@@ -8,19 +8,29 @@ const itemsPerLoad = 30;
 let currentCategory = 'All';
 let currentFormat = 'All';
 let searchQuery = '';
+let currentSort = 'default';
+let currentGridDensity = 'md';
 
 // Load liked wallpapers from localStorage
 let likedWallpapers = new Set(JSON.parse(localStorage.getItem('liked_wallpapers') || '[]'));
 
 // Load custom boards from localStorage
-// Structure: { boardName: [wpId1, wpId2, ...] }
 let customBoards = JSON.parse(localStorage.getItem('custom_boards') || '{}');
 
 // Canvas Editor State
 let editModeActive = false;
 let currentBlur = 0;
 let currentCropRatio = 'free';
-let originalImage = null; // Image object loaded dynamically
+let cropOffsetPercent = 50; // 0 (left/top) to 100 (right/bottom)
+let originalImage = null;
+
+// Slideshow Autoplay State
+let slideshowActive = false;
+let slideshowIndex = 0;
+let slideshowTimer = null;
+let slideshowAutoplay = true;
+const slideshowDuration = 4000; // 4 seconds
+let slideshowMouseTimer = null;
 
 // DOM Elements
 const grid = document.getElementById('masonry-grid');
@@ -48,6 +58,26 @@ const blurVal = document.getElementById('blur-val');
 const ratioBtns = document.querySelectorAll('.ratio-btn');
 const lightboxMedia = document.getElementById('lightbox-media');
 const editorCanvas = document.getElementById('editor-canvas');
+
+const panControl = document.getElementById('pan-control');
+const panSlider = document.getElementById('pan-slider');
+const panLabel = document.getElementById('pan-label');
+const panVal = document.getElementById('pan-val');
+const blurFitContainer = document.getElementById('blur-fit-container');
+const blurFitCheckbox = document.getElementById('blur-fit-checkbox');
+
+const sortSelect = document.getElementById('sort-select');
+const slideshowTrigger = document.getElementById('slideshow-trigger');
+const lightboxSlideshowBtn = document.getElementById('lightbox-slideshow');
+const densityBtns = document.querySelectorAll('.density-btn');
+
+const slideshowOverlay = document.getElementById('slideshow-overlay');
+const slideshowImg = document.getElementById('slideshow-img');
+const slideshowPlayBtn = document.getElementById('slideshow-play');
+const slideshowPrevBtn = document.getElementById('slideshow-prev');
+const slideshowNextBtn = document.getElementById('slideshow-next');
+const slideshowCloseBtn = document.getElementById('slideshow-close');
+const slideshowProgressBar = document.getElementById('slideshow-progress');
 
 // Create sentinel element for infinite scroll
 const loaderContainer = document.createElement('div');
@@ -117,6 +147,14 @@ function setupFilters() {
   ).join('');
 }
 
+// Helper to calculate size in bytes
+function getWpSizeBytes(wp) {
+  const val = parseFloat(wp.size);
+  if (wp.size.toLowerCase().includes('kb')) return val * 1024;
+  if (wp.size.toLowerCase().includes('mb')) return val * 1024 * 1024;
+  return val;
+}
+
 // Event Listeners Setup
 function setupEventListeners() {
   // Search Input
@@ -142,6 +180,25 @@ function setupEventListeners() {
       currentFormat = e.target.getAttribute('data-value');
       filterAndRender(true);
     }
+  });
+
+  // Sorting
+  sortSelect.addEventListener('change', (e) => {
+    currentSort = e.target.value;
+    filterAndRender(true);
+  });
+
+  // Grid Density
+  densityBtns.forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      densityBtns.forEach(b => b.classList.remove('active'));
+      const targetBtn = e.currentTarget;
+      targetBtn.classList.add('active');
+      currentGridDensity = targetBtn.getAttribute('data-density');
+      
+      grid.classList.remove('grid-sm', 'grid-md', 'grid-lg');
+      grid.classList.add(`grid-${currentGridDensity}`);
+    });
   });
 
   // Theme Toggle Click
@@ -188,17 +245,10 @@ function setupEventListeners() {
     if (e.target === lightbox) closeLightbox();
   });
 
-  // Key Down Events (Esc for lightbox)
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && lightbox.classList.contains('active')) {
-      closeLightbox();
-    }
-  });
-
   // Board Creation Listener
   boardCreateBtn.addEventListener('click', createNewBoard);
 
-  // Board Filter Pill Event delegation
+  // Board Filter Pill Click
   boardPillsContainer.addEventListener('click', (e) => {
     if (e.target.classList.contains('pill')) {
       boardPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
@@ -216,14 +266,91 @@ function setupEventListeners() {
   // Editor Panel Listeners
   editorToggleBtn.addEventListener('click', toggleEditorPanel);
   blurSlider.addEventListener('input', handleBlurChange);
+  panSlider.addEventListener('input', handlePanChange);
+  blurFitCheckbox.addEventListener('change', () => updateCanvas());
+
   ratioBtns.forEach(btn => {
     btn.addEventListener('click', (e) => {
       ratioBtns.forEach(b => b.classList.remove('active'));
       e.target.classList.add('active');
       currentCropRatio = e.target.getAttribute('data-ratio');
+      cropOffsetPercent = 50; // Reset offset on aspect ratio changes
+      panSlider.value = 50;
+      panVal.textContent = '50%';
       updateCanvas();
     });
   });
+
+  // Slideshow Triggers
+  slideshowTrigger.addEventListener('click', () => startSlideshow(0));
+  lightboxSlideshowBtn.addEventListener('click', () => {
+    const currentId = window.location.hash.substring(1);
+    const index = filteredWallpapers.findIndex(w => w.id === currentId);
+    closeLightbox();
+    startSlideshow(index !== -1 ? index : 0);
+  });
+
+  // Slideshow Controls
+  slideshowPlayBtn.addEventListener('click', toggleSlideshowPlay);
+  slideshowPrevBtn.addEventListener('click', prevSlide);
+  slideshowNextBtn.addEventListener('click', nextSlide);
+  slideshowCloseBtn.addEventListener('click', closeSlideshow);
+  slideshowOverlay.addEventListener('mousemove', triggerSlideshowMouseMovement);
+
+  // Key Down Events (Arrow controls, L, D, E, S, Esc)
+  document.addEventListener('keydown', (e) => {
+    // Lightbox Shortcuts
+    if (lightbox.classList.contains('active') && !slideshowActive) {
+      if (e.key === 'ArrowRight') {
+        navigateWp(1);
+      } else if (e.key === 'ArrowLeft') {
+        navigateWp(-1);
+      } else if (e.key.toLowerCase() === 'l') {
+        const currentId = window.location.hash.substring(1);
+        if (currentId) toggleLike(currentId);
+      } else if (e.key.toLowerCase() === 'd') {
+        const currentId = window.location.hash.substring(1);
+        const wp = WALLPAPERS.find(w => w.id === currentId);
+        if (wp) {
+          if (editModeActive) {
+            downloadWallpaper(wp.url, `Edited_${wp.name}.jpg`, editorCanvas);
+          } else {
+            downloadWallpaper(wp.url, `${wp.name}.${wp.format.toLowerCase()}`);
+          }
+        }
+      } else if (e.key.toLowerCase() === 'e') {
+        toggleEditorPanel();
+      }
+    }
+    
+    // Slideshow Shortcuts
+    if (slideshowActive) {
+      if (e.key === 'ArrowRight') {
+        nextSlide();
+      } else if (e.key === 'ArrowLeft') {
+        prevSlide();
+      } else if (e.key === ' ') {
+        e.preventDefault();
+        toggleSlideshowPlay();
+      } else if (e.key === 'Escape') {
+        closeSlideshow();
+      }
+    }
+  });
+}
+
+// Keyboard arrow index navigator
+function navigateWp(direction) {
+  const currentId = window.location.hash.substring(1);
+  if (!currentId) return;
+  const currentIndex = filteredWallpapers.findIndex(w => w.id === currentId);
+  if (currentIndex === -1) return;
+  
+  let nextIndex = currentIndex + direction;
+  if (nextIndex >= filteredWallpapers.length) nextIndex = 0;
+  if (nextIndex < 0) nextIndex = filteredWallpapers.length - 1;
+  
+  openLightbox(filteredWallpapers[nextIndex]);
 }
 
 // Deep Linking Handler
@@ -252,14 +379,12 @@ function renderBoardPills() {
   ).join('');
 }
 
-// Helper to reset active board filters
 function deactivateBoardPills() {
   boardPillsContainer.querySelectorAll('.pill').forEach(btn => btn.classList.remove('active'));
 }
 
 // Populate Dropdown selector inside the Lightbox
 function populateBoardSelect() {
-  // Clear options keeping original two options
   boardSelect.innerHTML = `
     <option value="">-- Add to Board --</option>
     <option value="Favorites">Liked Wallpapers</option>
@@ -291,7 +416,6 @@ function createNewBoard() {
     return;
   }
 
-  // Initialize empty board
   customBoards[trimmed] = [];
   localStorage.setItem('custom_boards', JSON.stringify(customBoards));
   
@@ -305,26 +429,17 @@ function filterAndRender(reset = true) {
   if (reset) {
     grid.innerHTML = '';
     renderedCount = 0;
-    // Don't scroll to top on simple liking, only on category/tab reset
-    if (reset && searchQuery === '' && currentCategory === 'All' && currentFormat === 'All' && currentView === 'explore') {
-      window.scrollTo({ top: 0, behavior: 'smooth' });
-    }
   }
 
   filteredWallpapers = WALLPAPERS.filter(wp => {
-    // 1. Search Query
     const matchesSearch = searchQuery === '' || 
       wp.name.toLowerCase().includes(searchQuery) ||
       wp.category.toLowerCase().includes(searchQuery) ||
       wp.format.toLowerCase().includes(searchQuery);
 
-    // 2. Category Filter
     const matchesCategory = currentCategory === 'All' || wp.category === currentCategory;
-
-    // 3. Format Filter
     const matchesFormat = currentFormat === 'All' || wp.format === currentFormat;
 
-    // 4. View Mode (Explore vs Liked vs Board)
     let matchesView = true;
     if (currentView === 'liked') {
       matchesView = likedWallpapers.has(wp.id);
@@ -336,6 +451,17 @@ function filterAndRender(reset = true) {
     return matchesSearch && matchesCategory && matchesFormat && matchesView;
   });
 
+  // Apply Sorting
+  if (currentSort === 'name-asc') {
+    filteredWallpapers.sort((a, b) => a.name.localeCompare(b.name));
+  } else if (currentSort === 'name-desc') {
+    filteredWallpapers.sort((a, b) => b.name.localeCompare(a.name));
+  } else if (currentSort === 'size-asc') {
+    filteredWallpapers.sort((a, b) => getWpSizeBytes(a) - getWpSizeBytes(b));
+  } else if (currentSort === 'size-desc') {
+    filteredWallpapers.sort((a, b) => getWpSizeBytes(b) - getWpSizeBytes(a));
+  }
+
   // Update Stats
   totalCountEl.textContent = WALLPAPERS.length;
   viewCountEl.textContent = filteredWallpapers.length;
@@ -344,7 +470,6 @@ function filterAndRender(reset = true) {
     renderEmptyState();
     loaderContainer.style.display = 'none';
   } else {
-    // Remove empty state if active
     const emptyState = grid.querySelector('.empty-state');
     if (emptyState) emptyState.remove();
     
@@ -420,7 +545,6 @@ function renderNextBatch() {
       openLightbox(wp);
     });
 
-    // Action button listeners
     const likeBtn = item.querySelector('.like-btn');
     likeBtn.addEventListener('click', (e) => {
       e.stopPropagation();
@@ -482,10 +606,8 @@ function toggleLike(id, btnElement) {
     showToast(`Added "${wp.name}" to favorites`, 'success');
   }
 
-  // Save to LocalStorage
   localStorage.setItem('liked_wallpapers', JSON.stringify(Array.from(likedWallpapers)));
 
-  // If in Liked tab, re-render to remove unliked card
   if (currentView === 'liked') {
     setTimeout(() => filterAndRender(false), 400);
   }
@@ -500,7 +622,6 @@ function addWallpaperToBoard(wpId, boardName) {
 
   const boardWps = customBoards[boardName];
   if (boardWps.includes(wpId)) {
-    // Remove if already exists (toggle behavior)
     customBoards[boardName] = boardWps.filter(id => id !== wpId);
     showToast(`Removed from "${boardName}"`, 'info');
   } else {
@@ -511,7 +632,6 @@ function addWallpaperToBoard(wpId, boardName) {
   localStorage.setItem('custom_boards', JSON.stringify(customBoards));
   renderBoardPills();
   
-  // If viewing this board, update UI
   if (currentView === 'board' && currentBoardName === boardName) {
     setTimeout(() => filterAndRender(false), 400);
   }
@@ -523,7 +643,6 @@ async function downloadWallpaper(url, filename, canvasElement = null) {
   try {
     let downloadUrl = url;
 
-    // If canvas element is provided (edited mode active), export dataURL
     if (canvasElement) {
       downloadUrl = canvasElement.toDataURL('image/jpeg', 0.95);
     }
@@ -562,7 +681,6 @@ function openLightbox(wp) {
   document.getElementById('info-size').textContent = wp.size;
   document.getElementById('info-path').textContent = wp.path;
   
-  // Deep linking hash trigger
   window.location.hash = wp.id;
 
   // Set main preview image
@@ -613,7 +731,6 @@ function openLightbox(wp) {
       boardSelect.value = '';
     }
 
-    // Update card button state in grid
     const cardEl = document.querySelector(`.masonry-item[data-id="${wp.id}"]`);
     if (cardEl) {
       const cardLikeBtn = cardEl.querySelector('.like-btn');
@@ -627,7 +744,6 @@ function openLightbox(wp) {
     }
   });
 
-  // Setup Board dropdown change listener
   boardSelect.onchange = (e) => {
     const selectedBoard = e.target.value;
     if (selectedBoard) {
@@ -635,21 +751,17 @@ function openLightbox(wp) {
     }
   };
 
-  // Editor controls: Reset editor state and hide panels
   resetEditorState();
 
-  // If the format is a GIF, disable editor controls
   if (wp.format === 'GIF') {
     editorToggleBtn.style.display = 'none';
   } else {
     editorToggleBtn.style.display = 'block';
-    // Pre-load image object in background for canvas editor operations
     originalImage = new Image();
     originalImage.crossOrigin = 'anonymous';
     originalImage.src = wp.url;
   }
 
-  // Show Modal
   lightbox.classList.add('active');
   document.body.style.overflow = 'hidden';
 }
@@ -657,14 +769,11 @@ function openLightbox(wp) {
 function closeLightbox() {
   lightbox.classList.remove('active');
   document.body.style.overflow = '';
-  // Clean up URL deep link hash
   history.replaceState(null, null, ' ');
   resetEditorState();
 }
 
-// Setup board select visual indicators
 function setupBoardSelectorForWallpaper(wpId) {
-  // Check which board contains this wallpaper
   let matchedBoard = '';
   if (likedWallpapers.has(wpId)) {
     matchedBoard = 'Favorites';
@@ -699,6 +808,7 @@ function resetEditorState() {
   editModeActive = false;
   currentBlur = 0;
   currentCropRatio = 'free';
+  cropOffsetPercent = 50;
   originalImage = null;
   
   editorToggleBtn.classList.remove('active');
@@ -708,6 +818,12 @@ function resetEditorState() {
   
   blurSlider.value = 0;
   blurVal.textContent = '0px';
+  panSlider.value = 50;
+  panVal.textContent = '50%';
+  panControl.style.display = 'none';
+  blurFitContainer.style.display = 'none';
+  blurFitCheckbox.checked = false;
+
   ratioBtns.forEach(btn => {
     if (btn.getAttribute('data-ratio') === 'free') {
       btn.classList.add('active');
@@ -723,10 +839,15 @@ function handleBlurChange(e) {
   updateCanvas();
 }
 
-// Render dynamic center-crop and Gaussian blur onto canvas
+function handlePanChange(e) {
+  cropOffsetPercent = parseInt(e.target.value, 10);
+  panVal.textContent = `${cropOffsetPercent}%`;
+  updateCanvas();
+}
+
+// Render dynamic center-crop, Gaussian blur, crop pan slider offsets, and Blurred Fit logic onto canvas
 function updateCanvas() {
   if (!originalImage || !originalImage.complete) {
-    // Retrying loading if not complete
     setTimeout(updateCanvas, 50);
     return;
   }
@@ -734,41 +855,121 @@ function updateCanvas() {
   const imgW = originalImage.naturalWidth;
   const imgH = originalImage.naturalHeight;
 
-  // Calculate cropping bounds based on ratio selector
+  // Decide if panning offset sliders need to be visible
+  updateEditorControlsVisibility(imgW, imgH);
+
+  // Calculate cropping bounds
   const crop = getCropBounds(imgW, imgH, currentCropRatio);
 
-  // Resize canvas to cropped dimension
   editorCanvas.width = crop.w;
   editorCanvas.height = crop.h;
 
   const ctx = editorCanvas.getContext('2d');
   ctx.clearRect(0, 0, crop.w, crop.h);
 
-  // Apply Gaussian blur filter on canvas drawing context
-  if (currentBlur > 0) {
-    ctx.filter = `blur(${currentBlur}px)`;
-  } else {
-    ctx.filter = 'none';
-  }
+  // Check if Blurred Fit Portrait is enabled
+  const doBlurFit = blurFitCheckbox.checked && 
+    (currentCropRatio === '9:16' || currentCropRatio === '1:1') && 
+    (imgW > imgH);
 
-  // Draw center cropped image onto full canvas size
-  // drawImage syntax: ctx.drawImage(image, sx, sy, sWidth, sHeight, dx, dy, dWidth, dHeight);
-  // Padding drawing by blur radius to prevent transparent border leakages
-  const pad = currentBlur * 2;
-  ctx.drawImage(
-    originalImage, 
-    crop.x - pad, 
-    crop.y - pad, 
-    crop.w + pad * 2, 
-    crop.h + pad * 2, 
-    -pad, 
-    -pad, 
-    crop.w + pad * 2, 
-    crop.h + pad * 2
-  );
+  if (doBlurFit) {
+    // 1. Draw blurred, zoomed background
+    ctx.save();
+    ctx.filter = `blur(${Math.max(currentBlur, 24)}px)`; // enforce minimum blur for fitting
+    
+    // Zoom/fill backdrop math: crop center portrait slice of landscape image
+    const bgRatio = crop.w / crop.h;
+    let bgW, bgH;
+    if (imgW / imgH > bgRatio) {
+      bgH = imgH;
+      bgW = imgH * bgRatio;
+    } else {
+      bgW = imgW;
+      bgH = imgW / bgRatio;
+    }
+    const bgX = (imgW - bgW) / 2;
+    const bgY = (imgH - bgH) / 2;
+    
+    // Draw blurred back
+    ctx.drawImage(originalImage, bgX, bgY, bgW, bgH, 0, 0, crop.w, crop.h);
+    ctx.restore();
+
+    // 2. Draw clean unblurred desktop foreground in center
+    ctx.save();
+    if (currentBlur > 0) {
+      ctx.filter = `blur(${currentBlur}px)`;
+    } else {
+      ctx.filter = 'none';
+    }
+
+    const scale = crop.w / imgW;
+    const fgH = imgH * scale;
+    const fgY = (crop.h - fgH) / 2;
+    
+    ctx.drawImage(originalImage, 0, 0, imgW, imgH, 0, fgY, crop.w, fgH);
+    ctx.restore();
+
+  } else {
+    // Standard Draw logic (Blur + Crop Position Pan offsets)
+    if (currentBlur > 0) {
+      ctx.filter = `blur(${currentBlur}px)`;
+    } else {
+      ctx.filter = 'none';
+    }
+
+    const pad = currentBlur * 2;
+    ctx.drawImage(
+      originalImage, 
+      crop.x - pad, 
+      crop.y - pad, 
+      crop.w + pad * 2, 
+      crop.h + pad * 2, 
+      -pad, 
+      -pad, 
+      crop.w + pad * 2, 
+      crop.h + pad * 2
+    );
+  }
 }
 
-// Center crop calculation helper
+// Dynamically toggles sliders depending on crop bounds prying axes
+function updateEditorControlsVisibility(imgW, imgH) {
+  if (currentCropRatio === 'free') {
+    panControl.style.display = 'none';
+    blurFitContainer.style.display = 'none';
+    return;
+  }
+
+  let targetRatio = 1;
+  if (currentCropRatio === '16:9') targetRatio = 16 / 9;
+  else if (currentCropRatio === '9:16') targetRatio = 9 / 16;
+  else if (currentCropRatio === '1:1') targetRatio = 1;
+
+  const imgRatio = imgW / imgH;
+
+  // 1. Pan controls visibility
+  if (Math.abs(imgRatio - targetRatio) < 0.05) {
+    panControl.style.display = 'none'; // ratios match, no panning needed
+  } else {
+    panControl.style.display = 'flex';
+    if (imgRatio > targetRatio) {
+      panLabel.textContent = 'Slide Left / Right';
+    } else {
+      panLabel.textContent = 'Slide Up / Down';
+    }
+  }
+
+  // 2. Blurred Fit Portrait controls visibility (Landscape image fitted into Portrait crop)
+  const isPortraitCrop = currentCropRatio === '9:16' || currentCropRatio === '1:1';
+  if (isPortraitCrop && imgW > imgH) {
+    blurFitContainer.style.display = 'flex';
+  } else {
+    blurFitContainer.style.display = 'none';
+    blurFitCheckbox.checked = false;
+  }
+}
+
+// Center crop calculation helper with panning offsets
 function getCropBounds(w, h, ratioStr) {
   if (ratioStr === 'free') {
     return { x: 0, y: 0, w: w, h: h };
@@ -788,10 +989,121 @@ function getCropBounds(w, h, ratioStr) {
     cropH = w / targetRatio;
   }
 
-  const cropX = (w - cropW) / 2;
-  const cropY = (h - cropH) / 2;
+  // Position panner math using cropOffsetPercent (value 0 to 100)
+  const offsetFraction = cropOffsetPercent / 100;
+  let cropX = (w - cropW) / 2;
+  let cropY = (h - cropH) / 2;
+
+  if (w / h > targetRatio) {
+    cropX = (w - cropW) * offsetFraction; // slide left-to-right
+  } else {
+    cropY = (h - cropH) * offsetFraction; // slide up-to-down
+  }
 
   return { x: cropX, y: cropY, w: cropW, h: cropH };
+}
+
+// Fullscreen Slideshow Loop Manager
+function startSlideshow(startIndex = 0) {
+  if (filteredWallpapers.length === 0) return;
+  
+  slideshowActive = true;
+  slideshowIndex = startIndex;
+  slideshowAutoplay = true;
+  
+  slideshowPlayBtn.innerHTML = '<i class="fas fa-pause"></i>';
+  slideshowOverlay.classList.add('active');
+  slideshowOverlay.classList.remove('idle');
+  document.body.style.overflow = 'hidden';
+  
+  showSlide(slideshowIndex);
+  resetSlideshowTimer();
+}
+
+function showSlide(index) {
+  slideshowIndex = index;
+  const wp = filteredWallpapers[slideshowIndex];
+  
+  // Set image source
+  slideshowImg.classList.remove('active');
+  setTimeout(() => {
+    slideshowImg.src = wp.url;
+    slideshowImg.alt = wp.name;
+    slideshowImg.onload = () => {
+      slideshowImg.classList.add('active');
+    };
+  }, 100);
+
+  // Update hash deep linking in background
+  window.location.hash = wp.id;
+}
+
+function nextSlide() {
+  showSlide((slideshowIndex + 1) % filteredWallpapers.length);
+  if (slideshowAutoplay) resetSlideshowTimer();
+}
+
+function prevSlide() {
+  showSlide((slideshowIndex - 1 + filteredWallpapers.length) % filteredWallpapers.length);
+  if (slideshowAutoplay) resetSlideshowTimer();
+}
+
+function toggleSlideshowPlay() {
+  slideshowAutoplay = !slideshowAutoplay;
+  if (slideshowAutoplay) {
+    slideshowPlayBtn.innerHTML = '<i class="fas fa-pause"></i>';
+    resetSlideshowTimer();
+    showToast('Slideshow resumed', 'info');
+  } else {
+    slideshowPlayBtn.innerHTML = '<i class="fas fa-play"></i>';
+    clearInterval(slideshowTimer);
+    slideshowProgressBar.style.transition = 'none';
+    slideshowProgressBar.style.width = '0%';
+    showToast('Slideshow paused', 'info');
+  }
+}
+
+function resetSlideshowTimer() {
+  clearInterval(slideshowTimer);
+  
+  // Animate CSS progress bar
+  slideshowProgressBar.style.transition = 'none';
+  slideshowProgressBar.style.width = '0%';
+  
+  // Trigger bar animation
+  setTimeout(() => {
+    slideshowProgressBar.style.transition = `width ${slideshowDuration}ms linear`;
+    slideshowProgressBar.style.width = '100%';
+  }, 50);
+
+  slideshowTimer = setInterval(() => {
+    nextSlide();
+  }, slideshowDuration);
+}
+
+function closeSlideshow() {
+  slideshowActive = false;
+  clearInterval(slideshowTimer);
+  slideshowOverlay.classList.remove('active');
+  document.body.style.overflow = '';
+  
+  // Sync back to lightbox with deep-linking
+  const currentWp = filteredWallpapers[slideshowIndex];
+  if (currentWp) {
+    openLightbox(currentWp);
+  }
+}
+
+// Mouse idle auto-hider for slideshow
+function triggerSlideshowMouseMovement() {
+  slideshowOverlay.classList.remove('idle');
+  clearTimeout(slideshowMouseTimer);
+  
+  slideshowMouseTimer = setTimeout(() => {
+    if (slideshowActive && slideshowAutoplay) {
+      slideshowOverlay.classList.add('idle');
+    }
+  }, 2500);
 }
 
 // Toast Alert Messages
