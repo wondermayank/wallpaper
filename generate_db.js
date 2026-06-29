@@ -12,20 +12,26 @@ function getCategory(dirName) {
   return dirName || 'Uncategorized';
 }
 
-function cleanName(fileName) {
-  // Remove extension
-  let name = path.parse(fileName).name;
-  // Replace parenthesized numbers or brackets
-  name = name.replace(/\(\d+\)/g, '').replace(/\[\d+\]/g, '');
-  // Replace dashes, underscores, and multiple spaces
-  name = name.replace(/[-_]+/g, ' ').replace(/\s+/g, ' ').trim();
-  // Capitalize first letter of each word
-  name = name.replace(/\b\w/g, c => c.toUpperCase());
-  // If name is empty (e.g. only numbers or brackets originally), fallback to default
-  if (!name) {
-    name = path.parse(fileName).name;
+function cleanName(fileName, category, index) {
+  let baseName = path.parse(fileName).name;
+  
+  // Extract number inside parentheses, e.g. "1 (105)" -> 105
+  const match = baseName.match(/\((\d+)\)/);
+  const number = match ? match[1] : '';
+  
+  let catSingular = 'Wallpaper';
+  if (category === 'Anime Wallpapers') catSingular = 'Anime';
+  else if (category === 'Anime Backgrounds') catSingular = 'Anime Background';
+  else if (category === 'Wallpapers') catSingular = 'Classic Wallpaper';
+  
+  if (number) {
+    return `${catSingular} #${number}`;
   }
-  return name;
+  
+  // Clean other descriptive filenames if present
+  let cleaned = baseName.replace(/[-_]+/g, ' ').replace(/\s+/g, ' ').trim();
+  cleaned = cleaned.replace(/\b\w/g, c => c.toUpperCase());
+  return cleaned || `${catSingular} #${index + 1}`;
 }
 
 function walkDir(dir, fileList = []) {
